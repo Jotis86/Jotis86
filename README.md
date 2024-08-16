@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hola! Soy un apasionado analista de datos 📊 con un sólido background en Administración y Dirección de Empresas (ADE) y finanzas 💼. Mi fascinación por los datos me ha llevado a desarrollar habilidades avanzadas en análisis, visualización y modelado de datos. Disfruto transformando datos complejos en información valiosa y accionable para ayudar a las organizaciones a tomar decisiones informadas y estratégicas.<br><br>A lo largo de mi carrera, trabajé en diversos proyectos que abarcan desde la optimización de procesos financieros hasta la creación de dashboards interactivos que facilitan la comprensión de métricas clave. Mi enfoque siempre está en la precisión, la eficiencia y la innovación 🚀.<br><br>En mi tiempo libre, soy un entusiasta del deporte 🏃‍♂️ y me encanta mantenerme activo, ya sea corriendo, jugando al fútbol ⚽ o explorando nuevas actividades. Además, tengo una adorable perra llamada Frida 🐶 que siempre me acompaña en mis aventuras al aire libre. Frida es una fuente constante de alegría y motivación en mi vida.<br><br>Soy un ávido aprendiz 📚 y siempre estoy buscando nuevas cosas que aprender y explorar. Ya sea a través de cursos online, libros o proyectos personales, me esfuerzo por mantenerme actualizado con las últimas tendencias y tecnologías en el campo del análisis de datos.
+¡Hola! Soy un apasionado de los datos 📊 con habilidades avanzadas en análisis, visualización y machine learning. Me encanta transformar información compleja en algo útil y accionable para ayudar a las organizaciones a tomar decisiones estratégicas e informadas.
+
+He trabajado en proyectos variados, desde optimizar procesos financieros hasta crear paneles interactivos que hacen más fácil entender las métricas clave. Además, tengo un background en finanzas, lo que me permite abordar problemas desde una perspectiva integral. Siempre busco precisión, eficiencia e innovación 🚀.
+
+En mi tiempo libre, soy un fanático del deporte 🏃‍♂️. Me gusta correr, jugar al fútbol ⚽ y probar nuevas actividades. Además, tengo una perrita adorable llamada Frida 🐶 que siempre me acompaña en mis aventuras al aire libre. Frida es una fuente constante de alegría y motivación.
+
+Soy un aprendiz constante 📚. Siempre estoy buscando nuevas cosas que aprender, ya sea a través de cursos online, libros o proyectos personales. Me esfuerzo por mantenerme al día con las últimas tendencias y tecnologías en el análisis de datos.
 
 
 ## 🌐 Socials:
