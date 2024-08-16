@@ -1,11 +1,11 @@
 # 💫 About Me:
-¡Hola! Soy un apasionado de los datos 📊 con habilidades avanzadas en análisis, visualización y machine learning. Me encanta transformar información compleja en algo útil y accionable para ayudar a las organizaciones a tomar decisiones estratégicas e informadas.
+Hi! I’m passionate about data 📊 with advanced skills in analysis, visualization, and machine learning. I love transforming complex information into something useful and actionable to help organizations make strategic and informed decisions.
 
-Trabajé en proyectos variados, desde optimizar procesos financieros hasta crear paneles interactivos que hacen más fácil entender las métricas clave. Además, tengo un background en finanzas, lo que me permite abordar problemas desde una perspectiva integral. Siempre busco precisión, eficiencia e innovación 🚀.
+I’ve worked on various projects, from optimizing financial processes to creating interactive dashboards that make it easier to understand key metrics. Additionally, I have a background in finance, which allows me to approach problems from a comprehensive perspective. I always strive for precision, efficiency, and innovation 🚀.
 
-En mi tiempo libre, soy un fanático del deporte 🏃‍♂️. Me gusta correr, jugar al fútbol ⚽ y probar nuevas actividades. Además, tengo una perrita adorable llamada Frida 🐶 que siempre me acompaña en mis aventuras al aire libre. Frida es una fuente constante de alegría y motivación.
+In my free time, I’m a sports enthusiast 🏃‍♂️. I enjoy running, playing football ⚽, and trying new activities. I also have an adorable dog named Frida 🐶 who always accompanies me on my outdoor adventures. Frida is a constant source of joy and motivation.
 
-Soy un aprendiz constante 📚. Siempre estoy buscando nuevas cosas que aprender, ya sea a través de cursos online, libros o proyectos personales. Me esfuerzo por mantenerme al día con las últimas tendencias y tecnologías en el análisis de datos.
+I’m a lifelong learner 📚. I’m always looking for new things to learn, whether through online courses, books, or personal projects. I strive to stay up-to-date with the latest trends and technologies in data analysis.
 
 
 ## 🌐 Socials:
