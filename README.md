@@ -1,7 +1,7 @@
 # 💫 About Me:
 ¡Hola! Soy un apasionado de los datos 📊 con habilidades avanzadas en análisis, visualización y machine learning. Me encanta transformar información compleja en algo útil y accionable para ayudar a las organizaciones a tomar decisiones estratégicas e informadas.
 
-He trabajado en proyectos variados, desde optimizar procesos financieros hasta crear paneles interactivos que hacen más fácil entender las métricas clave. Además, tengo un background en finanzas, lo que me permite abordar problemas desde una perspectiva integral. Siempre busco precisión, eficiencia e innovación 🚀.
+Trabajé en proyectos variados, desde optimizar procesos financieros hasta crear paneles interactivos que hacen más fácil entender las métricas clave. Además, tengo un background en finanzas, lo que me permite abordar problemas desde una perspectiva integral. Siempre busco precisión, eficiencia e innovación 🚀.
 
 En mi tiempo libre, soy un fanático del deporte 🏃‍♂️. Me gusta correr, jugar al fútbol ⚽ y probar nuevas actividades. Además, tengo una perrita adorable llamada Frida 🐶 que siempre me acompaña en mis aventuras al aire libre. Frida es una fuente constante de alegría y motivación.
 
