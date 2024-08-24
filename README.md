@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 📊 From Data to Strategy | Juan Durán Bon 🚀🔍
+
+## 💫 About Me:
 Hi! I’m passionate about data 📊 with advanced skills in analysis, visualization, and machine learning. I love transforming complex information into something useful and actionable to help organizations make strategic and informed decisions.
 
 I’ve worked on various projects, from optimizing financial processes to creating interactive dashboards that make it easier to understand key metrics. Additionally, I have a background in finance, which allows me to approach problems from a comprehensive perspective. I always strive for precision, efficiency, and innovation 🚀.
