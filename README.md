@@ -1,4 +1,4 @@
-# 📊 From Data to Strategy | Juan Durán Bon 🚀🔍
+# 📊 Data Analyst: Navigating the Sea of Data 🌊🔍
 
 ## 💫 About Me:
 Hi! I’m passionate about data 📊 with advanced skills in analysis, visualization, and machine learning. I love transforming complex information into something useful and actionable to help organizations make strategic and informed decisions.
