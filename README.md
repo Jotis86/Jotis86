@@ -1,9 +1,13 @@
 # Data Analyst 📊 | Machine Learning 🤖 & Insights 🔍📈
 
 ## 💫 About Me:
-Hi! I’m passionate about data 📊 with advanced skills in analysis, visualization, and machine learning. I love transforming complex information into something useful and actionable to help organizations make strategic and informed decisions.
+Hi! I’m passionate about data 📊 with advanced skills in analysis, visualization, and machine learning. I love transforming complex information into something useful and actionable to help organizations make strategic and informed decisions. 
 
-I’ve worked on various projects, from optimizing financial processes to creating interactive dashboards that make it easier to understand key metrics. Additionally, I have a background in finance, which allows me to approach problems from a comprehensive perspective. I always strive for precision, efficiency, and innovation 🚀.
+My expertise includes working with tools such as Python 🐍 (using libraries like Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn), SQL 🗄️ for database management and queries, and Power BI 📊 for creating interactive dashboards and visualizations that facilitate the understanding of key metrics and insights.
+
+I also have experience in machine learning 🤖, where I implement models for regression, classification, and clustering. These models help predict trends, identify patterns, and optimize processes, providing valuable insights that drive strategic decisions. My work in machine learning involves not only building and training models but also fine-tuning them to ensure high accuracy and reliability.
+
+I’ve worked on various projects, from optimizing financial processes 💰 to creating interactive dashboards 📈 that make it easier to understand key metrics. Additionally, I have a background in finance 📉, which allows me to approach problems from a comprehensive perspective. I always strive for precision, efficiency, and innovation 🚀.
 
 In my free time, I’m a sports enthusiast 🏃‍♂️. I enjoy running, playing football ⚽, and trying new activities. I also have an adorable dog named Frida 🐶 who always accompanies me on my outdoor adventures. Frida is a constant source of joy and motivation.
 
