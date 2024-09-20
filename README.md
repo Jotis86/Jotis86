@@ -1,5 +1,6 @@
 # Data Analyst 📊 | Machine Learning 🤖 & Insights 🔍📈
 
+
 ## 💫 About Me:
 Hi! I’m passionate about data 📊 with advanced skills in analysis, visualization, and machine learning. I love transforming complex information into something useful and actionable to help organizations make strategic and informed decisions. 
 
@@ -12,6 +13,13 @@ I’ve worked on various projects, from optimizing financial processes 💰 to c
 In my free time, I’m a sports enthusiast 🏃‍♂️. I enjoy running, playing football ⚽, and trying new activities. I also have an adorable dog named Frida 🐶 who always accompanies me on my outdoor adventures. Frida is a constant source of joy and motivation.
 
 I’m a lifelong learner 📚. I’m always looking for new things to learn, whether through online courses, books, or personal projects. I strive to stay up-to-date with the latest trends and technologies in data analysis.
+
+
+## 🌟 Featured Projects:
+1. Interactive Power BI dashboard for marketing analysis [View Project](https://github.com/Jotis86/Marketing-Dashboard-PowerBI)
+2. Fake News detection [View Project](https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning)
+3. Bakery Production Pptimization [View Project](https://github.com/Jotis86/Bakery-Production-Optimization-Project-)
+4. Loan Analysis Project [View Project](https://github.com/Jotis86/Loan-Analysis-Project-)
 
 
 ## 🌐 Socials:
