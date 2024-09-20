@@ -27,7 +27,7 @@ I have had the opportunity to acquire a solid educational background and several
 - **Data Science Certification** - IBM (2024) 📈
 - **Data Analysis Certification** - Google (2024) 📊
 
-For more details, you can view my CV here.
+For more details, you can view my CV [here](https://github.com/Jotis86/My-Professional-CV)
 
 
 
