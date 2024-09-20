@@ -3,17 +3,31 @@
 
 
 ## 💫 About Me:
-Hi! I’m passionate about data 📊 with advanced skills in analysis, visualization, and machine learning. I love transforming complex information into something useful and actionable to help organizations make strategic and informed decisions. 
+Hi! I’m passionate about data 📊 with advanced skills in analysis, visualization, and machine learning. I transform complex information into actionable insights to help organizations make strategic decisions.
 
-My expertise includes working with tools such as Python 🐍 (using libraries like Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn), SQL 🗄️ for database management and queries, and Power BI 📊 for creating interactive dashboards and visualizations that facilitate the understanding of key metrics and insights.
+I work with tools like Python 🐍 (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL 🗄️, and Power BI 📊 to create interactive dashboards and visualizations. My machine learning experience includes building and fine-tuning models for regression, classification, and clustering to predict trends and optimize processes.
 
-I also have experience in machine learning 🤖, where I implement models for regression, classification, and clustering. These models help predict trends, identify patterns, and optimize processes, providing valuable insights that drive strategic decisions. My work in machine learning involves not only building and training models but also fine-tuning them to ensure high accuracy and reliability.
+I’ve worked on projects ranging from financial process optimization 💰 to creating interactive dashboards 📈. My background in finance 📉 allows me to approach problems comprehensively. I strive for precision, efficiency, and innovation 🚀.
 
-I’ve worked on various projects, from optimizing financial processes 💰 to creating interactive dashboards 📈 that make it easier to understand key metrics. Additionally, I have a background in finance 📉, which allows me to approach problems from a comprehensive perspective. I always strive for precision, efficiency, and innovation 🚀.
+In my free time, I enjoy running, playing football ⚽, and exploring new activities. My dog, Frida 🐶, is my constant companion on outdoor adventures. I’m a lifelong learner 📚, always seeking new knowledge and staying updated with the latest trends in data analysis.
 
-In my free time, I’m a sports enthusiast 🏃‍♂️. I enjoy running, playing football ⚽, and trying new activities. I also have an adorable dog named Frida 🐶 who always accompanies me on my outdoor adventures. Frida is a constant source of joy and motivation.
 
-I’m a lifelong learner 📚. I’m always looking for new things to learn, whether through online courses, books, or personal projects. I strive to stay up-to-date with the latest trends and technologies in data analysis.
+## 🎓 Education & Certifications:
+I have had the opportunity to acquire a solid educational background and several certifications that have allowed me to develop the skills necessary for a career in data analytics and machine learning. Here are the details:
+
+- **Data Analytics Bootcamp** - Ironhack (In progress) 📊
+- **Data Science & Artificial Intelligence Bootcamp** - Code Space Academy (2024) 🤖
+- **Master’s in Big Data and Business Intelligence** - Esneca Business School (2024) 📈
+- **Master’s in Finance** - University of Vigo (2013) 💼
+- **Bachelor's Degree in Business Administration and Management** - University of Vigo (2010) 🎓
+
+### Certifications:
+- **Artificial Intelligence Program** - IBM SkillsBuild (2024) 🤖
+- **Power BI Certification** - Datahack School (2024) 📊
+- **Data Science Certification** - IBM (2024) 📈
+- **Data Analysis Certification** - Google (2024) 📊
+
+For more details, you can view my CV here.
 
 
 
