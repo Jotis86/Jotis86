@@ -1,6 +1,7 @@
 # Data Analyst 📊 | Machine Learning 🤖 & Insights 🔍📈
 
 
+
 ## 💫 About Me:
 Hi! I’m passionate about data 📊 with advanced skills in analysis, visualization, and machine learning. I love transforming complex information into something useful and actionable to help organizations make strategic and informed decisions. 
 
@@ -15,6 +16,7 @@ In my free time, I’m a sports enthusiast 🏃‍♂️. I enjoy running, playi
 I’m a lifelong learner 📚. I’m always looking for new things to learn, whether through online courses, books, or personal projects. I strive to stay up-to-date with the latest trends and technologies in data analysis.
 
 
+
 ## 🌟 Featured Projects:
 1. Interactive Power BI dashboard for marketing analysis [View Project](https://github.com/Jotis86/Marketing-Dashboard-PowerBI)
 2. Fake News detection [View Project](https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning)
@@ -22,8 +24,10 @@ I’m a lifelong learner 📚. I’m always looking for new things to learn, whe
 4. Loan Analysis Project [View Project](https://github.com/Jotis86/Loan-Analysis-Project-)
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-duran-bon)
+
 
 
 ## 💻 Tech Stack:
@@ -33,6 +37,7 @@ I’m a lifelong learner 📚. I’m always looking for new things to learn, whe
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 ## 📊 GitHub Stats:
