@@ -36,6 +36,7 @@ For more details, you can view my CV [here](https://github.com/Jotis86/My-Profes
 2. Fake News detection [View Project](https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning)
 3. Bakery Production Pptimization [View Project](https://github.com/Jotis86/Bakery-Production-Optimization-Project-)
 4. Loan Analysis Project [View Project](https://github.com/Jotis86/Loan-Analysis-Project-)
+5. Spaceship Titanic Rescue Mission [View Project](https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission)
 
 
 
