@@ -15,8 +15,6 @@ I work with tools like Python 🐍 (Pandas, NumPy, Scikit-learn, Matplotlib, Sea
 
 I’ve worked on projects ranging from financial process optimization 💰 to creating interactive dashboards 📈. My background in finance 📉 allows me to approach problems comprehensively. I strive for precision, efficiency, and innovation 🚀.
 
-In my free time, I enjoy running, playing football ⚽, and exploring new activities. My dog, Frida 🐶, is my constant companion on outdoor adventures. I’m a lifelong learner 📚, always seeking new knowledge and staying updated with the latest trends in data analysis.
-
 
 ## 🎓 Education & Certifications:
 I have had the opportunity to acquire a solid educational background and several certifications that have allowed me to develop the skills necessary for a career in data analytics and machine learning. Here are the details:
