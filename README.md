@@ -2,8 +2,6 @@
   <img src="https://github.com/Jotis86/Jotis86/blob/main/Banner.png" width="800"/>
 </div>
 
-<div id="badges" align="center">
-
 
 
 ## 💫 About Me:
