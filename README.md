@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Jotis86/Jotis86/blob/main/Banner.png" width="900"/>
+  <img src="https://github.com/Jotis86/Jotis86/blob/main/Banner%20GitHub.png" width="900"/>
 </div>
 
 <h1>
