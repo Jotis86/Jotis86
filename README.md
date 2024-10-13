@@ -31,7 +31,7 @@ I have had the opportunity to acquire a solid educational background and several
 - **Data Science Certification** - IBM (2024) 📈
 - **Data Analysis Certification** - Google (2024) 📊
 
-For more information, please refer to my [CV](https://github.com/Jotis86/My-Professional-CV/blob/main/CV%20Juan%20Duran%20Bon%20-%20Data.pdf)
+For more information, please refer to my [CV](https://github.com/Jotis86/My-Professional-CV/blob/main/CV.pdf)
 
 
 
