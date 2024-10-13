@@ -15,7 +15,7 @@ I work with tools like Python 🐍 (Pandas, NumPy, Scikit-learn, Matplotlib, Sea
 
 I’ve worked on projects ranging from financial process optimization 💰 to creating interactive dashboards 📈. My background in finance 📉 allows me to approach problems comprehensively. I strive for precision, efficiency, and innovation 🚀.
 
-To see more of my work and projects, check out my portfolio [here](https://jotis86.github.io/Portfolio/)
+To see more of my work and projects, check out my portfolio [here](https://jotis86.github.io/Portfolio/)👈
 
 
 ## 🎓 Education & Certifications:
@@ -33,7 +33,7 @@ I have had the opportunity to acquire a solid educational background and several
 - **Data Science Certification** - IBM (2024) 📈
 - **Data Analysis Certification** - Google (2024) 📊
 
-For more information, please refer to my [CV](https://github.com/Jotis86/My-Professional-CV/blob/main/CV.pdf)
+For more information, please refer to my [CV](https://github.com/Jotis86/My-Professional-CV/blob/main/CV.pdf)👈
 
 
 
