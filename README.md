@@ -2,10 +2,12 @@
   <img src="https://github.com/Jotis86/Jotis86/blob/main/Banner%20GitHub.png" width="900"/>
 </div>
 
-  
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-duran-bon) 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jotaduranbon@gmail.com)
-[![](https://img.shields.io/badge/Portafolio-yellow?style=for-the-badge&logo=medium&logoColor=white)](https://jotis86.github.io/Portfolio/)
+
+<div id="badges" align="center">
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-duran-bon) 
+  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jotaduranbon@gmail.com)
+  [![](https://img.shields.io/badge/Portafolio-yellow?style=for-the-badge&logo=medium&logoColor=white)](https://jotis86.github.io/Portfolio/)
+</div>
 
 
 <h1>
