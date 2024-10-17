@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://jotis86.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portafolio-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Portafolio">
+    <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Portafolio">
   </a>
 </p>
 
