@@ -56,6 +56,7 @@ For more information, please refer to my [CV](https://github.com/Jotis86/My-Prof
 4. Loan Analysis Project [View Project](https://github.com/Jotis86/Loan-Analysis-Project-)
 5. Spaceship Titanic Rescue Mission [View Project](https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission)
 6. Scape City Game [View Project](https://github.com/Jotis86/Project-Scape_City)
+7. Shark Analysis Project [View Project](https://github.com/Jotis86/Shark-Analysis-Project)
 
 
 
