@@ -106,7 +106,7 @@ For more information, please refer to my [CV](https://github.com/Jotis86/My-Prof
 
 If you like my work, consider buying me a coffee!
 
-<a href="https://www.buymeacoffee.com/Jotis86" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;"></a>
+<a href="https://www.buymeacoffee.com/https://github.com/Jotis86" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;"></a>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jotis86&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
