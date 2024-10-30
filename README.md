@@ -61,6 +61,8 @@ For more information, please refer to my [CV](https://github.com/Jotis86/My-Prof
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-duran-bon)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD835?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Jotis86)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jotaduranbon@gmail.com)
 
 
 
