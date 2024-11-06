@@ -55,6 +55,7 @@ For more information, please refer to my [CV](https://github.com/Jotis86/My-Prof
 6. Scape City Game [View Project](https://github.com/Jotis86/Project-Scape_City)
 7. Shark Analysis Project [View Project](https://github.com/Jotis86/Shark-Analysis-Project)
 8. Games Project [View Project](https://github.com/Jotis86/Games-Project)
+9. Electric and Solar Tariff Recommender [View Project] (https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project)
 
 
 
