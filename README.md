@@ -2,7 +2,7 @@
   <img src="https://github.com/Jotis86/Jotis86/blob/main/Banner%20GitHub.png" width="900"/>
 </div>
 
-<p align="center" style="margin-bottom: 20px;">
+<p align="center">
   <a href="https://www.linkedin.com/in/juan-duran-bon">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -16,11 +16,10 @@
 
 <br> <!-- Añadido un salto de línea aquí -->
 
+
+
 ![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=50&pause=1000&color=FFCF02&width=500&lines=Hi+I+am+Juan+Duran;I+am+Data+Analyst;I+am+Data+Scientist;Happy+Coding!%F0%9F%92%9B)
 
-
-
-## 💫 About Me:
 Hi there! I'm a data wizard 🧙‍♂️ who turns raw data into magical insights. With my trusty tools like Python 🐍 (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL 🗄️, and Power BI 📊, I create visualizations that make data dance.
 
 I’ve built machine learning models that predict the future 🔮 and optimize processes like a pro. From financial alchemy 💰 to interactive dashboards 📈, I've got you covered.
