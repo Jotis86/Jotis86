@@ -14,7 +14,8 @@
   </a>
 </p>
 
-![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=435&lines=Hi+I+am+Juan+Duran;I+am+Data+Analyst;I+am+Data+Scientist;Happy+Coding!%F0%9F%92%9B)
+![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=50&pause=1000&color=FFCF02&width=500&lines=Hi+I+am+Juan+Duran;I+am+Data+Analyst;I+am+Data+Scientist;Happy+Coding!%F0%9F%92%9B)
+
 
 
 ## 💫 About Me:
