@@ -314,7 +314,7 @@ If you like my work, consider buying me a coffee!
 
 <br>
 
-![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=30&pause=1000&color=FFCF02&width=435&lines=With+love%2C;Luc%C3%ADa+Ordo%C3%B1ez+Vilanova;Thank+you+for+your+time;%F0%9F%92%9B)
+![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=30&pause=1000&color=FFCF02&width=435&lines=With+love%2C;Juan+Duran+Bon;Thank+you+for+your+time;%F0%9F%92%9B)
 
 
 ---
