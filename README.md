@@ -142,9 +142,27 @@ Welcome to the year 2912! The Spaceship Titanic, an interstellar passenger liner
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
+### Scape City Game
+> A thrilling game where players need to navigate through a futuristic city to escape from various challenges and obstacles.
 
-4. Spaceship Titanic Rescue Mission [View Project](https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission)
-5. Scape City Game [View Project](https://github.com/Jotis86/Project-Scape_City)
+<a href='https://github.com/Jotis86/Project-Scape_City' target='_blank'>
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/City.jpg' alt='Scape City Game' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Scape%20City%20Game-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Project-Scape_City)
+
+Experience the excitement of navigating through a futuristic city filled with challenges and obstacles. Use your skills and strategies to escape and win the game.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
+[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+
+
 6. Shark Analysis Project [View Project](https://github.com/Jotis86/Shark-Analysis-Project)
 7. Games Project [View Project](https://github.com/Jotis86/Games-Project)
 8. Electric and Solar Tariff Recommender [View Project](https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project)
