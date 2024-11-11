@@ -59,10 +59,20 @@ For more information, please refer to my [CV](https://github.com/Jotis86/My-Prof
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-duran-bon)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jotaduranbon@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jotis86)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/jotis4946)
+<div>
+  <a href="mailto:jotaduranbon@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square" height="23" alt="Gmail" />
+  </a> 
+  <a href="https://www.linkedin.com/in/juan-duran-bon" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" height="23" alt="LinkedIn" />
+  </a> 
+  <a href="https://t.me/Jotis86" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-square" height="23" alt="Telegram" />
+  </a> 
+  <a href="http://discordapp.com/users/jotis4946" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square" height="23" alt="Discord" />
+  </a>
+</div>
 
 
 
