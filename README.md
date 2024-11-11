@@ -47,7 +47,24 @@ For more information, please refer to my [CV](https://github.com/Jotis86/My-Prof
 
 
 ## 🌟 Featured Projects:
-1. Fake News Detection [View Project](https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning)
+### Fake News Detection
+> Detect fake news using machine learning algorithms
+
+<a href='https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning' target='_blank'>
+  <img align='left' width='150px' src='https://i.postimg.cc/ryghsZYC/screencapture-personal-budget-assistant-vercel-app-2024-10-29-11-29-56.png' alt='Fake News Detection' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Fake%20News%20Detection-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning)
+[![Vercel Demo](https://img.shields.io/badge/Fake%20News%20live%20demo-black?style=for-the-badge&logo=vercel)](https://personal-budget-assistant.vercel.app/login)
+
+A comprehensive project to identify fake news using various machine learning techniques. This project focuses on text classification and data preprocessing to build reliable models for fake news detection.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+
 2. Bakery Production Optimization [View Project](https://github.com/Jotis86/Bakery-Production-Optimization-Project-)
 3. Loan Analysis Project [View Project](https://github.com/Jotis86/Loan-Analysis-Project-)
 4. Spaceship Titanic Rescue Mission [View Project](https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission)
