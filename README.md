@@ -94,9 +94,9 @@ A project focused on optimizing bakery production processes through data analysi
   <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/Loan.png' alt='Bakery Production Optimization' />
 </a> 
 
-[![GitHub Repo](https://img.shields.io/badge/Bakery%20Production%20Optimization-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Bakery-Production-Optimization-Project-)
+[![GitHub Repo](https://img.shields.io/badge/Bakery%20Production%20Optimization-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Loan-Analysis-Project-)
 
-A project focused on optimizing bakery production processes through data analysis and machine learning. This involves data manipulation, visualization, and model development for better decision-making.<br>
+The goal of this project is to analyze a loan dataset to identify key patterns and relationships that can help predict whether a loan is at risk or not. Additionally, we aim to build a machine learning model that can accurately predict the risk of a loan based on various features..<br>
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
