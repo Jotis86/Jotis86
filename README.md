@@ -59,10 +59,14 @@ For more information, please refer to my [CV](https://github.com/Jotis86/My-Prof
 A comprehensive project to identify fake news using various machine learning techniques. This project focuses on text classification and data preprocessing to build reliable models for fake news detection.<br>
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-0277BD?style=flat-square&logo=nltk&logoColor=white)](https://www.nltk.org/)
+[![Gensim](https://img.shields.io/badge/Gensim-4CAF50?style=flat-square&logo=gensim&logoColor=white)](https://radimrehurek.com/gensim/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
 
 2. Bakery Production Optimization [View Project](https://github.com/Jotis86/Bakery-Production-Optimization-Project-)
 3. Loan Analysis Project [View Project](https://github.com/Jotis86/Loan-Analysis-Project-)
