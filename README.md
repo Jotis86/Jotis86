@@ -68,7 +68,24 @@ A comprehensive project to identify fake news using various machine learning tec
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 
-2. Bakery Production Optimization [View Project](https://github.com/Jotis86/Bakery-Production-Optimization-Project-)
+### Bakery Production Optimization
+> Optimize bakery production using data analysis and machine learning
+
+<a href='https://github.com/Jotis86/Bakery-Production-Optimization-Project-' target='_blank'>
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/pan.jpeg' alt='Bakery Production Optimization' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Bakery%20Production%20Optimization-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Bakery-Production-Optimization-Project-)
+
+A project focused on optimizing bakery production processes through data analysis and machine learning. This involves data manipulation, visualization, and model development for better decision-making.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+
 3. Loan Analysis Project [View Project](https://github.com/Jotis86/Loan-Analysis-Project-)
 4. Spaceship Titanic Rescue Mission [View Project](https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission)
 5. Scape City Game [View Project](https://github.com/Jotis86/Project-Scape_City)
