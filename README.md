@@ -47,22 +47,23 @@ For more information, please refer to my [CV](https://github.com/Jotis86/My-Prof
 
 
 ## 🌟 Featured Projects:
-1. Interactive Power BI dashboard for marketing analysis [View Project](https://github.com/Jotis86/Marketing-Dashboard-PowerBI)
-2. Fake News Detection [View Project](https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning)
-3. Bakery Production Optimization [View Project](https://github.com/Jotis86/Bakery-Production-Optimization-Project-)
-4. Loan Analysis Project [View Project](https://github.com/Jotis86/Loan-Analysis-Project-)
-5. Spaceship Titanic Rescue Mission [View Project](https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission)
-6. Scape City Game [View Project](https://github.com/Jotis86/Project-Scape_City)
-7. Shark Analysis Project [View Project](https://github.com/Jotis86/Shark-Analysis-Project)
-8. Games Project [View Project](https://github.com/Jotis86/Games-Project)
-9. Electric and Solar Tariff Recommender [View Project](https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project)
+1. Fake News Detection [View Project](https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning)
+2. Bakery Production Optimization [View Project](https://github.com/Jotis86/Bakery-Production-Optimization-Project-)
+3. Loan Analysis Project [View Project](https://github.com/Jotis86/Loan-Analysis-Project-)
+4. Spaceship Titanic Rescue Mission [View Project](https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission)
+5. Scape City Game [View Project](https://github.com/Jotis86/Project-Scape_City)
+6. Shark Analysis Project [View Project](https://github.com/Jotis86/Shark-Analysis-Project)
+7. Games Project [View Project](https://github.com/Jotis86/Games-Project)
+8. Electric and Solar Tariff Recommender [View Project](https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project)
 
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-duran-bon)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD835?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Jotis86)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jotaduranbon@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jotis86)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/jotis4946)
+
 
 
 
