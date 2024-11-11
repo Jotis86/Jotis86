@@ -119,7 +119,26 @@ The goal of this project is to analyze a loan dataset to identify key patterns a
 
 
 
+### Spaceship Titanic Rescue Mission
+> This project is part of a Kaggle challenge to help save the passengers and change history! I build a machine learning model to predict if passengers were transported.
 
+<a href='https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission' target='_blank'>
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/p6.jpg' alt='Spaceship Titanic Rescue Mission' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Spaceship Titanic Rescue Mission-gray?style=for-the-badge&amp;logo=github)](https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission)
+
+Welcome to the year 2912! The Spaceship Titanic, an interstellar passenger liner, collided with a space-time anomaly, transporting nearly half of its 13,000 passengers to an alternate dimension. Your mission is to predict which passengers were transported using the records recovered from the ship's damaged computer system.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
 
