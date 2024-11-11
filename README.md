@@ -162,8 +162,28 @@ Experience the excitement of navigating through a futuristic city filled with ch
 [![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 
+### Shark Analysis Project
+> Analyze various shark attack data to identify patterns and trends.
 
-6. Shark Analysis Project [View Project](https://github.com/Jotis86/Shark-Analysis-Project)
+<a href='https://github.com/Jotis86/Shark-Analysis-Project' target='_blank'>
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/tiburon.jpg' alt='Shark Analysis Project' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Shark%20Analysis%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Shark-Analysis-Project)
+
+This project involves analyzing data related to shark attacks to identify key patterns and trends. The analysis will help understand the behavior of sharks and provide insights into reducing shark attacks.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+
+
 7. Games Project [View Project](https://github.com/Jotis86/Games-Project)
 8. Electric and Solar Tariff Recommender [View Project](https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project)
 
