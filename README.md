@@ -66,7 +66,6 @@ For more information, please refer to my [CV](https://github.com/Jotis86/My-Prof
 
 
 
-
 ## 💻 Tech Stack:
 
 ### 🐍 Programming Languages:
