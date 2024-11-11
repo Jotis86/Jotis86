@@ -126,7 +126,7 @@ The goal of this project is to analyze a loan dataset to identify key patterns a
   <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/p6.jpg' alt='Spaceship Titanic Rescue Mission' />
 </a> 
 
-[![GitHub Repo](https://img.shields.io/badge/Spaceship Titanic Rescue Mission-gray?style=for-the-badge&amp;logo=github)](https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission)
+[![GitHub Repo](https://img.shields.io/badge/Spaceship Titanic Rescue Mission-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission)
 
 Welcome to the year 2912! The Spaceship Titanic, an interstellar passenger liner, collided with a space-time anomaly, transporting nearly half of its 13,000 passengers to an alternate dimension. Your mission is to predict which passengers were transported using the records recovered from the ship's damaged computer system.<br>
 
