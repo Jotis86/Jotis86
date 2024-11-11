@@ -51,7 +51,7 @@ For more information, please refer to my [CV](https://github.com/Jotis86/My-Prof
 > Detect fake news using machine learning algorithms
 
 <a href='https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning' target='_blank'>
-  <img align='left' width='150px' src='https://i.postimg.cc/ryghsZYC/screencapture-personal-budget-assistant-vercel-app-2024-10-29-11-29-56.png' alt='Fake News Detection' />
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/Fake.jpg' alt='Fake News Detection' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Fake%20News%20Detection-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning)
