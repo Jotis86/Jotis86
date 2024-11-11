@@ -18,7 +18,7 @@
 
 
 
-![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=500&lines=Hi+I+am+Juan+Duran;I+am+Data+Analyst;I+am+Data+Scientist;Happy+Coding!)
+![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=500&lines=Hi,+I+am+Juan+Duran!;I+am+Data+Analyst;I+am+Data+Scientist;Happy+Coding!)
 
 Hi there! I'm a data wizard 🧙‍♂️ who turns raw data into magical insights. With my trusty tools like Python 🐍 (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL 🗄️, and Power BI 📊, I create visualizations that make data dance.
 
