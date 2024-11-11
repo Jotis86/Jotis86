@@ -2,7 +2,7 @@
   <img src="https://github.com/Jotis86/Jotis86/blob/main/Banner%20GitHub.png" width="900"/>
 </div>
 
-<p align="center">
+<p align="center"> style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/juan-duran-bon">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
