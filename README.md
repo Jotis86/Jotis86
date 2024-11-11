@@ -183,9 +183,46 @@ This project involves analyzing data related to shark attacks to identify key pa
 [![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 
+### Games Project
+> A collection of various games developed to showcase different game development techniques and technologies.
 
-7. Games Project [View Project](https://github.com/Jotis86/Games-Project)
-8. Electric and Solar Tariff Recommender [View Project](https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project)
+<a href='https://github.com/Jotis86/Games-Project' target='_blank'>
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/juego.jpg' alt='Games Project' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Games%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Games-Project)
+
+Explore a variety of games developed using different game development techniques and technologies. Each game demonstrates unique features and gameplay mechanics.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pygame](https://img.shields.io/badge/Pygame-306998?style=flat-square&logo=python&logoColor=white)](https://www.pygame.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+### Electric and Solar Tariff Recommender
+> A project to recommend the best electric and solar tariffs for users based on their consumption patterns and preferences.
+
+<a href='https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project' target='_blank'>
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/luz.jpg' alt='Electric and Solar Tariff Recommender' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Electric%20and%20Solar%20Tariff%20Recommender-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project)
+
+This project helps users find the best electric and solar tariffs by analyzing their consumption data and preferences to provide personalized recommendations.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+
 
 
 
