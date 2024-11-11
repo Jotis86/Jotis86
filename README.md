@@ -55,7 +55,6 @@ For more information, please refer to my [CV](https://github.com/Jotis86/My-Prof
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Fake%20News%20Detection-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning)
-[![Vercel Demo](https://img.shields.io/badge/Fake%20News%20live%20demo-black?style=for-the-badge&logo=vercel)](https://personal-budget-assistant.vercel.app/login)
 
 A comprehensive project to identify fake news using various machine learning techniques. This project focuses on text classification and data preprocessing to build reliable models for fake news detection.<br>
 
