@@ -290,9 +290,31 @@ If you like my work, consider buying me a coffee!
 <a href="https://www.buymeacoffee.com/Jotis86"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Jotis86&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jotis86&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jotis86&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jotis86&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jotis86&theme=onedark&include_all_commits=true" width="700"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jotis86&theme=onedark&include_all_commits=true&" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotis86&langs_count=8&layout=donut&theme=onedark&hide_border=true&include_all_commits=true" width="285"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FLuovtyrell%2F&label=Daily%20visitors&labelColor=%23282c34&countColor=%23e4c07b)
+  
+  </td>
+  </tr>
+</table>              
+                                        
+
+<br>
+
+![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=30&pause=1000&color=FFCF02&width=435&lines=With+love%2C;Luc%C3%ADa+Ordo%C3%B1ez+Vilanova;Thank+you+for+your+time;%F0%9F%92%9B)
 
 
 ---
