@@ -209,6 +209,7 @@ Explore a variety of games developed using different game development techniques
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Electric%20and%20Solar%20Tariff%20Recommender-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project)
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://electric-and-solar-tariff-recommender-project-aklabfg6vkkxekht.streamlit.app/)
 
 This project helps users find the best electric and solar tariffs by analyzing their consumption data and preferences to provide personalized recommendations.<br>
 
