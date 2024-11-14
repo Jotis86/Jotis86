@@ -167,6 +167,7 @@ Experience the excitement of navigating through a futuristic city filled with ch
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Shark%20Analysis%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Shark-Analysis-Project)
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://shark-analysis-project-mfuke6wqfkwwwx7n5shva8.streamlit.app/)
 
 This project involves analyzing data related to shark attacks to identify key patterns and trends. The analysis will help understand the behavior of sharks and provide insights into reducing shark attacks.<br>
 
