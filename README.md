@@ -190,7 +190,7 @@ This project involves analyzing data related to shark attacks to identify key pa
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Games%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Games-Project)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://games-project-hgkadwvnzyvmvwoaatvgne.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://games-project-hgkadwvnzyvmvwoaatvgne.streamlit.app/)
 
 Explore a variety of games developed using different game development techniques and technologies. Each game demonstrates unique features and gameplay mechanics.<br>
 
