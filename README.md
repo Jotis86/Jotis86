@@ -288,7 +288,9 @@ This project helps users find the best electric and solar tariffs by analyzing t
 
 If you like my work, consider buying me a coffee!
 
-<a href="https://www.buymeacoffee.com/Jotis86"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Jotis86&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://ko-fi.com/Jotis86"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
+
+
 
 ## 📊 GitHub Stats:
 <table align="center">
