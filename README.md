@@ -21,11 +21,12 @@
 
 ![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=500&lines=Hi,+I+am+Juan+Duran!;I+am+Data+Analyst;I+am+Data+Scientist;Happy+Coding!)
 
-Hi there! I'm a data wizard 🧙‍♂️ who turns raw data into magical insights. With my trusty tools like Python 🐍 (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL 🗄️, and Power BI 📊, I create visualizations that make data dance.
+<br> <!-- Añadido un salto de línea aquí -->
 
-I’ve built machine learning models that predict the future 🔮 and optimize processes like a pro. From financial alchemy 💰 to interactive dashboards 📈, I've got you covered.
+## About me
 
-When I'm not busy conjuring data spells, you can find me exploring new ways to make data fun and insightful. Check out my [portfolio](https://jotis86.github.io/Portfolio/) for more of my magical creations! ✨
+Hi, I am Juan!, a data lover with a background in finance. Yes, I'm that guy who finds spreadsheets and bar charts exciting. I turn data into strategic decisions and sometimes into really bad memes. Welcome to my portfolio, where numbers not only come to life but also try to be funny!
+
 
 
 ## 🎓 Education & Certifications:
