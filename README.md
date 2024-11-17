@@ -23,7 +23,7 @@
 
 <br> <!-- Añadido un salto de línea aquí -->
 
-## About me 👋
+## 👋 About me:
 
 Hi, I am Juan! 😊 A data lover with a background in finance. Yes, I'm that guy who finds spreadsheets and bar charts exciting 📊. I turn data into strategic decisions and sometimes into really bad memes. Welcome to my portfolio, where numbers not only come to life but also try to be funny! 😄
 
