@@ -23,27 +23,20 @@
 
 <br> <!-- Añadido un salto de línea aquí -->
 
-## About me
+## About me 👋
 
-Hi, I am Juan!, a data lover with a background in finance. Yes, I'm that guy who finds spreadsheets and bar charts exciting. I turn data into strategic decisions and sometimes into really bad memes. Welcome to my portfolio, where numbers not only come to life but also try to be funny!
+Hi, I am Juan! 😊 A data lover with a background in finance. Yes, I'm that guy who finds spreadsheets and bar charts exciting 📊. I turn data into strategic decisions and sometimes into really bad memes. Welcome to my portfolio, where numbers not only come to life but also try to be funny! 😄
 
 
 
-## 🎓 Education & Certifications:
+## 🎯 My Interests:
 
-- **Data Analytics Bootcamp** - Ironhack (In progress) 📊
-- **Data Science & Artificial Intelligence Bootcamp** - Code Space Academy (2024) 🤖
-- **Master’s in Big Data and Business Intelligence** - Esneca Business School (2024) 📈
-- **Master’s in Finance** - University of Vigo (2013) 💼
-- **Bachelor's Degree in Business Administration and Management** - University of Vigo (2010) 🎓
+- 💻 Coding: I love diving into code and creating efficient, elegant solutions to complex problems.
+- ⚽ Sports: I'm passionate about sports, especially football. Whether playing or watching, football is a big part of my life.
+- 🍕 Italian Cuisine: I adore Italian food. From pasta to pizza, I enjoy exploring and cooking Italian dishes.
+- 📺 Series and Video Games: I enjoy binge-watching series and playing video games. It's a great way to relax and unwind.
+- 🎁 Collecting Funko Pop Figures: I have a growing collection of Funko Pop figures. Each one has a special place in my heart and on my shelf.
 
-### 📜 Certifications:
-- **Artificial Intelligence Program** - IBM SkillsBuild (2024) 🤖
-- **Power BI Certification** - Datahack School (2024) 📊
-- **Data Science Certification** - IBM (2024) 📈
-- **Data Analysis Certification** - Google (2024) 📊
-
-For more information, please refer to my [CV](https://github.com/Jotis86/My-Professional-CV/blob/main/CV.pdf)  👈
 
 ## 💻 Tech Stack:
 
