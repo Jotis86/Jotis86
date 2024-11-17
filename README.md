@@ -43,7 +43,8 @@ When I'm not busy conjuring data spells, you can find me exploring new ways to m
 
 For more information, please refer to my [CV](https://github.com/Jotis86/My-Professional-CV/blob/main/CV.pdf)  👈
 
-
+🧰 Languages and Tools
+<div align="center"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="40px" alt="Python" /></a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="40px" alt="Jupyter" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40px" alt="VS Code" /></a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=powerbi&theme=dark" height="40px" alt="Power BI" /></a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tableau&theme=dark" height="40px" alt="Tableau" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40px" alt="MySQL" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40px" alt="MongoDB" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="40px" alt="Git" /></a> <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40px" alt="GitHub" /></a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=canva&theme=dark" height="40px" alt="Canva" /></a> </div>
 
 ## 🌟 Featured Projects:
 ### Fake News Detection
