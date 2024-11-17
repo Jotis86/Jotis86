@@ -77,6 +77,7 @@ For more information, please refer to my [CV](https://github.com/Jotis86/My-Prof
   </a>
 </div>
 
+
 ## 🌟 Featured Projects:
 ### Fake News Detection
 > Detect fake news using machine learning algorithms
