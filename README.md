@@ -12,6 +12,7 @@
   <a href="https://jotis86.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Portafolio">
   </a>
+  <a href="https://your-cv-link.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CV-4CAF50?style=for-the-badge&logo=resume&logoColor=white" alt="CV"> </a>
 </p>
 
 <br> <!-- Añadido un salto de línea aquí -->
