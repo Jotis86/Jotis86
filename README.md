@@ -112,7 +112,7 @@ A project focused on optimizing bakery production processes through data analysi
 
 [![GitHub Repo](https://img.shields.io/badge/Loan%20Analysis%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Loan-Analysis-Project-)
 
-The goal of this project is to analyze a loan dataset to identify key patterns and relationships that can help predict whether a loan is at risk or not. Additionally, we aim to build a machine learning model that can accurately predict the risk of a loan based on various features.<br>
+The goal of this project is to analyze a loan dataset to identify key patterns and relationships that can help predict whether a loan is at risk or not.<br>
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -129,7 +129,7 @@ The goal of this project is to analyze a loan dataset to identify key patterns a
 > This project is part of a Kaggle challenge to help save the passengers and change history! I build a machine learning model to predict if passengers were transported.
 
 <a href='https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission' target='_blank'>
-  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/p6.jpg' alt='Spaceship Titanic Rescue Mission' />
+  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/p6.jpg' alt='Spaceship Titanic Rescue Mission' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Spaceship%20Titanic%20Rescue%20Mission-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission)
@@ -152,7 +152,7 @@ Welcome to the year 2912! Your mission is to predict which passengers were trans
 > A thrilling game where players need to navigate through a futuristic city to escape from various challenges and obstacles.
 
 <a href='https://github.com/Jotis86/Project-Scape_City' target='_blank'>
-  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/City.jpg' alt='Scape City Game' />
+  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/City.jpg' alt='Scape City Game' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Scape%20City%20Game-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Project-Scape_City)
