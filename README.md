@@ -107,7 +107,7 @@ A project focused on optimizing bakery production processes through data analysi
 > The Loan Analysis Project aims to analyze a loan dataset to identify patterns and relationships and build a machine learning model to predict loan risk.
 
 <a href='https://github.com/Jotis86/Loan-Analysis-Project-' target='_blank'>
-  <img align='left' width='100px' src='https://github.com/Jotis86/Images/blob/main/Loan.png' alt='Bakery Production Optimization' />
+  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/Loan.png' alt='Bakery Production Optimization' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Loan%20Analysis%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Loan-Analysis-Project-)
