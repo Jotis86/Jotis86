@@ -172,7 +172,7 @@ Experience the excitement of navigating through a futuristic city filled with ch
 > Analyze various shark attack data to identify patterns and trends.
 
 <a href='https://github.com/Jotis86/Shark-Analysis-Project' target='_blank'>
-  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/tiburon.jpg' alt='Shark Analysis Project' />
+  <img align='left' width='180px' src='https://github.com/Jotis86/Images/blob/main/tiburon.jpg' alt='Shark Analysis Project' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Shark%20Analysis%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Shark-Analysis-Project)
@@ -214,7 +214,7 @@ Explore a variety of games developed using different game development techniques
 > A curated collection of classic games, showcasing timeless gameplay and nostalgic experiences.
 
 <a href='https://github.com/Jotis86/Classic-Games-Collection' target='_blank'> 
-  <img align='left' width='100px' src='https://github.com/Jotis86/Images/blob/main/juegos_clasicos.png' alt='Classic Games Collection' />
+  <img align='left' width='130px' src='https://github.com/Jotis86/Images/blob/main/juegos_clasicos.png' alt='Classic Games Collection' />
 </a>
 
 [![GitHub Repo](https://img.shields.io/badge/Classic%20Games%20Collection-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Classic-Games-Collection)
