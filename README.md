@@ -210,6 +210,19 @@ Explore a variety of games developed using different game development techniques
 [![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+
+### Classic Games Collection
+> A curated collection of classic games, showcasing timeless gameplay and nostalgic experiences.
+
+<a href='https://github.com/Jotis86/Classic-Games-Collection' target='_blank'> 
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/juegos_clasicos.png' alt='Classic Games Collection' /> 
+</a>
+
+[![GitHub Repo](https://img.shields.io/badge/Classic%20Games%20Collection-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Classic-Games-Collection)
+
+Explore a variety of classic games that bring back the charm of old-school gaming. Each game is a tribute to the golden era of video games.<br>
+
+
 ### Electric and Solar Tariff Recommender
 > A project to recommend the best electric and solar tariffs for users based on their consumption patterns and preferences.
 
