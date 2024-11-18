@@ -152,7 +152,7 @@ Welcome to the year 2912! Your mission is to predict which passengers were trans
 > A thrilling game where players need to navigate through a futuristic city to escape from various challenges and obstacles.
 
 <a href='https://github.com/Jotis86/Project-Scape_City' target='_blank'>
-  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/City.jpg' alt='Scape City Game' />
+  <img align='left' width='130px' src='https://github.com/Jotis86/Images/blob/main/City.jpg' alt='Scape City Game' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Scape%20City%20Game-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Project-Scape_City)
@@ -172,7 +172,7 @@ Experience the excitement of navigating through a futuristic city filled with ch
 > Analyze various shark attack data to identify patterns and trends.
 
 <a href='https://github.com/Jotis86/Shark-Analysis-Project' target='_blank'>
-  <img align='left' width='180px' src='https://github.com/Jotis86/Images/blob/main/tiburon.jpg' alt='Shark Analysis Project' />
+  <img align='left' width='160px' src='https://github.com/Jotis86/Images/blob/main/tiburon.jpg' alt='Shark Analysis Project' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Shark%20Analysis%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Shark-Analysis-Project)
