@@ -213,9 +213,7 @@ Explore a variety of games developed using different game development techniques
 ### Classic Games Collection
 > A curated collection of classic games, showcasing timeless gameplay and nostalgic experiences.
 
-<a href='https://github.com/Jotis86/Classic-Games-Collection' target='_blank'> 
-  <img align='left' width='140px' src='https://github.com/Jotis86/Images/blob/main/juegos_clasicos.png' alt='Classic Games Collection' /> 
-</a>
+<a href='https://github.com/Jotis86/Classic-Games-Collection' target='_blank'> <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/juegos_clasicos.png' alt='Classic Games Collection' /> </a>
 
 [![GitHub Repo](https://img.shields.io/badge/Classic%20Games%20Collection-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Classic-Games-Collection)
 
