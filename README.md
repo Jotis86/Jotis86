@@ -204,7 +204,6 @@ This project involves analyzing data related to shark attacks to identify key pa
 Explore a variety of games developed using different game development techniques and technologies. Each game demonstrates unique features and gameplay mechanics.<br>
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Pygame](https://img.shields.io/badge/Pygame-306998?style=flat-square&logo=python&logoColor=white)](https://www.pygame.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
@@ -221,6 +220,13 @@ Explore a variety of games developed using different game development techniques
 [![GitHub Repo](https://img.shields.io/badge/Classic%20Games%20Collection-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Classic-Games-Collection)
 
 Explore a variety of classic games that bring back the charm of old-school gaming. Each game is a tribute to the golden era of video games.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pygame](https://img.shields.io/badge/Pygame-306998?style=flat-square&logo=python&logoColor=white)](https://www.pygame.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
 ### Electric and Solar Tariff Recommender
