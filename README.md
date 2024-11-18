@@ -59,7 +59,7 @@ Hi, I am Juan! 😊 A data lover with a background in finance. Yes, I'm that guy
 > Detect fake news using machine learning algorithms
 
 <a href='https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning' target='_blank'>
-  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/Fake.jpg' alt='Fake News Detection' />
+  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/Fake.jpg' alt='Fake News Detection' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Fake%20News%20Detection-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning)
@@ -83,7 +83,7 @@ A comprehensive project to identify fake news using various machine learning tec
 > Optimize bakery production using data analysis and machine learning
 
 <a href='https://github.com/Jotis86/Bakery-Production-Optimization-Project-' target='_blank'>
-  <img align='left' width='100px' src='https://github.com/Jotis86/Images/blob/main/pan.jpeg' alt='Bakery Production Optimization' />
+  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/pan.jpeg' alt='Bakery Production Optimization' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Bakery%20Production%20Optimization-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Bakery-Production-Optimization-Project-)
