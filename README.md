@@ -195,7 +195,7 @@ This project involves analyzing data related to shark attacks to identify key pa
 > A collection of various games developed to showcase different game development techniques and technologies.
 
 <a href='https://github.com/Jotis86/Games-Project' target='_blank'>
-  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/juego.jpg' alt='Games Project' />
+  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/juego.jpg' alt='Games Project' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Games%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Games-Project)
@@ -214,7 +214,7 @@ Explore a variety of games developed using different game development techniques
 > A curated collection of classic games, showcasing timeless gameplay and nostalgic experiences.
 
 <a href='https://github.com/Jotis86/Classic-Games-Collection' target='_blank'> 
-  <img align='left' width='130px' src='https://github.com/Jotis86/Images/blob/main/juegos_clasicos.png' alt='Classic Games Collection' />
+  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/juegos_clasicos.png' alt='Classic Games Collection' />
 </a>
 
 [![GitHub Repo](https://img.shields.io/badge/Classic%20Games%20Collection-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Classic-Games-Collection)
@@ -234,7 +234,7 @@ Explore a variety of classic games that bring back the charm of old-school gamin
 > A project to recommend the best electric and solar tariffs for users based on their consumption patterns and preferences.
 
 <a href='https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project' target='_blank'>
-  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/luz.jpg' alt='Electric and Solar Tariff Recommender' />
+  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/luz.jpg' alt='Electric and Solar Tariff Recommender' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Electric%20and%20Solar%20Tariff%20Recommender-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project)
