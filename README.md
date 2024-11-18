@@ -135,7 +135,7 @@ The goal of this project is to analyze a loan dataset to identify key patterns a
 [![GitHub Repo](https://img.shields.io/badge/Spaceship%20Titanic%20Rescue%20Mission-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission)
 
 
-Welcome to the year 2912! The Spaceship Titanic, an interstellar passenger liner, collided with a space-time anomaly, transporting nearly half of its 13,000 passengers to an alternate dimension. Your mission is to predict which passengers were transported using the records recovered from the ship's damaged computer system.<br>
+Welcome to the year 2912! Your mission is to predict which passengers were transported using the records recovered from the ship's damaged computer system.<br>
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -214,7 +214,7 @@ Explore a variety of games developed using different game development techniques
 > A curated collection of classic games, showcasing timeless gameplay and nostalgic experiences.
 
 <a href='https://github.com/Jotis86/Classic-Games-Collection' target='_blank'> 
-  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/juegos_clasicos.png' alt='Classic Games Collection' />
+  <img align='left' width='100px' src='https://github.com/Jotis86/Images/blob/main/juegos_clasicos.png' alt='Classic Games Collection' />
 </a>
 
 [![GitHub Repo](https://img.shields.io/badge/Classic%20Games%20Collection-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Classic-Games-Collection)
