@@ -135,6 +135,7 @@ The goal of this project is to analyze a loan dataset to identify key patterns a
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Spaceship%20Titanic%20Rescue%20Mission-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission)
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://spaceship-titanic-rescue-mission-jldmxrnem3ltcymgjjeggk.streamlit.app/)
 
 
 Welcome to the year 2912! Your mission is to predict which passengers were transported using the records recovered from the ship's damaged computer system.<br>
