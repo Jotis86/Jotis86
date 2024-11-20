@@ -111,6 +111,7 @@ A project focused on optimizing bakery production processes through data analysi
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Loan%20Analysis%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Loan-Analysis-Project-)
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://5jbfewgry3tpmkytewg2wk.streamlit.app/)
 
 The goal of this project is to analyze a loan dataset to identify key patterns and relationships that can help predict whether a loan is at risk or not.<br>
 
