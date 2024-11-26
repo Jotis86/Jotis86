@@ -21,9 +21,6 @@
 
 ![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=500&lines=Hi,+I+am+Juan+Duran!;I+am+Data+Analyst;I+am+Data+Scientist;Happy+Coding!)
 
-<br> <!-- Añadido un salto de línea aquí -->
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jotis86&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jotis86)
 
 <br> <!-- Añadido un salto de línea aquí -->
 
@@ -291,6 +288,9 @@ If you like my work, consider buying me a coffee!
 
 
 ## 📊 GitHub Stats:
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jotis86&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jotis86)
+<br> <!-- Añadido un salto de línea aquí -->
 <table align="center">
   <tr>
     <td align="center">
