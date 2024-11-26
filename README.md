@@ -23,6 +23,10 @@
 
 <br> <!-- Añadido un salto de línea aquí -->
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jotis86&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jotis86)
+
+<br> <!-- Añadido un salto de línea aquí -->
+
 ## 👋 About me:
 
 Hi, I am Juan! 😊 A data lover with a background in finance. Yes, I'm that guy who finds spreadsheets and bar charts exciting 📊. I turn data into strategic decisions and sometimes into really bad memes. Welcome to my portfolio, where numbers not only come to life but also try to be funny! 😄
