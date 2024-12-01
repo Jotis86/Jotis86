@@ -9,7 +9,7 @@
   <a href="mailto:jotaduranbon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://jotis86.github.io/Portfolio/">
+  <a href="https://jotis86.github.io/Website/">
     <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Portafolio">
   </a>
   <a href="https://github.com/Jotis86/My-Professional-CV/blob/main/CV.pdf" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CV-4CAF50?style=for-the-badge&logo=resume&logoColor=white" alt="CV"> </a>
