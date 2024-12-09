@@ -304,7 +304,7 @@ If you like my work, consider buying me a coffee!
   <tr>
     <td align="center">
       
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FLuovtyrell%2F&label=Daily%20visitors&labelColor=%23282c34&countColor=%23e4c07b)
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FJotis86%2FJotis86%2F&label=Daily%20visitors&labelColor=%23282c34&countColor=%23e4c07b)
   
   </td>
   </tr>
