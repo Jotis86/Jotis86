@@ -297,7 +297,7 @@ If you like my work, consider buying me a coffee!
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jotis86&theme=onedark&include_all_commits=true&" width="300"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jotis86&theme=onedark&include_all_commits=true" width="300"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotis86&langs_count=8&layout=donut&theme=onedark&hide_border=true&include_all_commits=true" width="285"/>
     </td>
   </tr>
