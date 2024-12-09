@@ -292,7 +292,7 @@ If you like my work, consider buying me a coffee!
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jotis86&theme=onedark&include_all_commits=true" width="700"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jotis86&theme=onedark&include_all_commits=true" width="800"/>
     </td>
   </tr>
   <tr>
