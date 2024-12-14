@@ -80,7 +80,7 @@ A comprehensive project to identify fake news using various machine learning tec
 > Interactive marketing analysis using Power BI and Python for strategic insights.
 
 <a href='https://github.com/Jotis86/Marketing-Analysis-Project' target='_blank'>
-  <img align='left' width='100px' src='https://github.com/Jotis86/Images/blob/main/marketing.png' alt='Marketing Analysis Project' />
+  <img align='left' width='110px' src='https://github.com/Jotis86/Images/blob/main/marketing.png' alt='Marketing Analysis Project' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Marketing%20Analysis%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Marketing-Analysis-Project)
