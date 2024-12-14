@@ -83,7 +83,7 @@ A comprehensive project to identify fake news using various machine learning tec
   <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/marketing.png' alt='Marketing Analysis Project' />
 </a> 
 
-[![GitHub Repo](https://img.shields.io/badge/Fake%20News%20Detection-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Marketing-Analysis-Project)
+[![GitHub Repo](https://img.shields.io/badge/Marketing%20Analysis%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Marketing-Analysis-Project)
 [![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://marketing-analysis-project-upjsxxocyxzgfipqedl4zv.streamlit.app/)
 
 The objective of this project is to provide an interactive and detailed analysis of key marketing metrics to support strategic decision-making. This includes leveraging both Power BI for interactive dashboards and Python for data analysis, cleaning, and visualization.<br>
