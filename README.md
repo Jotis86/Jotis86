@@ -339,6 +339,10 @@ If you like my work, consider buying me a coffee!
 
 ![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=30&pause=1000&color=FFCF02&width=435&lines=With+love%2C;Juan+Duran+Bon;Thank+you+for+your+time;%F0%9F%92%9B)
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jotis86&icon=0&color=0)](https://visitcount.itsvg.in)
