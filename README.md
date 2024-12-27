@@ -106,7 +106,7 @@ The objective of this project is to provide an interactive and detailed analysis
   <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/people.png' alt='People Analysis Project' />
 </a> 
 
-[![GitHub Repo](https://img.shields.io/badge/People%20Analytics%20Project-gray?style=for-the-badge&logo=github)]
+[![GitHub Repo](https://img.shields.io/badge/People%20Analytics%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/People-Analytics-Project)
 [![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://people-analytics-project-cxrukqhwgdwnagx8cabr97.streamlit.app/)
 
 The objective of this project is to provide an interactive and detailed analysis of key employee metrics to support strategic decision-making. This includes leveraging both Power BI for interactive dashboards and Python for data analysis, cleaning, and visualization.<br>
