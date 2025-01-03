@@ -98,6 +98,29 @@ The objective of this project is to provide an interactive and detailed analysis
 [![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+### Supply Chain Project
+> Interactive suplly chain analysis using Power BI and Python for strategic insights.
+
+<a href='https://github.com/Jotis86/Supply-Chain-Project' target='_blank'>
+  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/Supply_Chain_2.png' alt='Supply Chain Project' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Supply%20Chain%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Supply-Chain-Project)
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://supply-chain-project-jy9fx2ga95cbnwbjcu3nyg.streamlit.app/)
+
+The supply chain is a critical component of any business, and understanding its dynamics can lead to significant improvements in efficiency and effectiveness. This project leverages the power of data analytics to provide insights into various aspects of the supply chain, from supplier performance to product trends.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+
 
 ### People Analytics Project
 > Interactive analysis of employee metrics using Power BI and Python for strategic insights.
