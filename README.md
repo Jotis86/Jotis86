@@ -102,7 +102,7 @@ The objective of this project is to provide an interactive and detailed analysis
 > Interactive suplly chain analysis using Power BI and Python for strategic insights.
 
 <a href='https://github.com/Jotis86/Supply-Chain-Project' target='_blank'>
-  <img align='left' width='140px' src='https://github.com/Jotis86/Images/blob/main/Supply_Chain_2.png' alt='Supply Chain Project' />
+  <img align='left' width='140px' height='180px' src='https://github.com/Jotis86/Images/blob/main/Supply_Chain_2.png' alt='Supply Chain Project' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Supply%20Chain%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Supply-Chain-Project)
