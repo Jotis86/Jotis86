@@ -64,7 +64,7 @@ Hi, I am Juan! 😊 A data lover with a background in finance. Yes, I'm that guy
 
 [![GitHub Repo](https://img.shields.io/badge/Academic%20Performance%20Case%20Study-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Academic_performance_case_study)
 
-This project develops a Streamlit application that analyzes factors affecting students’ academic performance and predicts their outcomes in Mathematics and Portuguese using Machine Learning models.<br>
+This project develops a Streamlit application that analyzes factors affecting students’ academic performance and predicts their outcomes using Machine Learning models.<br>
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
