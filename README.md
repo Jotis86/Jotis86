@@ -59,7 +59,7 @@ Hi, I am Juan! 😊 A data lover with a background in finance. Yes, I'm that guy
 > Develop and evaluate machine learning models to predict students' academic performance
 
 <a href='https://github.com/Jotis86/Academic_performance_case_study' target='_blank'>
-  <img align='left' width='140px' src='https://github.com/Jotis86/Images/blob/main/principal.png' alt='Academic Performance Project' />
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/principal.png' alt='Academic Performance Project' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Academic%20Performance%20Case%20Study-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Academic_performance_case_study)
