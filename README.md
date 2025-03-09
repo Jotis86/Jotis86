@@ -10,10 +10,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://jotis86.github.io/Website/">
-    <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Portafolio">
+    <img src="https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Portafolio">
   </a>
   <a href="https://www.globalcobots.com/blog/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white" alt="Blog">
+    <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=medium&logoColor=white" alt="Blog">
   </a>
   <a href="https://github.com/Jotis86/My-Professional-CV/blob/main/CV_Juan%20Duran%20Bon.pdf" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CV-4CAF50?style=for-the-badge&logo=resume&logoColor=white" alt="CV"> </a>
 </p>
