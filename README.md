@@ -62,7 +62,7 @@ Hi, I am Juan! 😊 A data lover with a background in finance. Yes, I'm that guy
 
 ## 🖥️ My Setup
 
-I’ve designed my workspace to boost productivity and comfort. Check out the full breakdown of my setup, including hardware, software, and configurations, in my [setup repository](https://github.com/Jotis86/Setup)!
+I’ve designed my workspace to boost productivity and comfort. Check out the full breakdown of my setup, including hardware, software, and configurations, in my [setup repository](https://github.com/Jotis86/Setup) .
 
 
 ## 🌟 Featured Projects:
