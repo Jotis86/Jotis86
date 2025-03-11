@@ -60,7 +60,11 @@ Hi, I am Juan! 😊 A data lover with a background in finance. Yes, I'm that guy
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+## 🖥️ My Setup
 
+I’ve designed my workspace to boost productivity and comfort. Check out the full breakdown of my setup, including hardware, software, and configurations, in my [setup repository]([https://github.com/username/repo-name](https://github.com/Jotis86/Setup))!
+
+Feel free to explore!
 
 ## 🌟 Featured Projects:
 
