@@ -93,6 +93,28 @@ This project aims to develop a comprehensive solution for early Alzheimer’s de
 [![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+### Electric and Solar Tariff Recommender
+> A project to recommend the best electric and solar tariffs for users based on their consumption patterns and preferences.
+
+<a href='https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project' target='_blank'>
+  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/luz.jpg' alt='Electric and Solar Tariff Recommender' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Electric%20and%20Solar%20Tariff%20Recommender-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project)
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://electric-and-solar-tariff-recommender-project-aklabfg6vkkxekht.streamlit.app/)
+
+This project helps users find the best electric and solar tariffs by analyzing their consumption data and preferences to provide personalized recommendations.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
 
 ### Academic Performance Project
 > Develop and evaluate machine learning models to predict students' academic performance
@@ -116,26 +138,6 @@ This project develops a Streamlit application that analyzes factors affecting st
 [![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-### Fake News Detection
-> Detect fake news using machine learning algorithms
-
-<a href='https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning' target='_blank'>
-  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/Fake.jpg' alt='Fake News Detection' />
-</a> 
-
-[![GitHub Repo](https://img.shields.io/badge/Fake%20News%20Detection-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning)
-
-A comprehensive project to identify fake news using various machine learning techniques. This project focuses on text classification and data preprocessing to build reliable models for fake news detection.<br>
-
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NLTK](https://img.shields.io/badge/NLTK-0277BD?style=flat-square&logo=nltk&logoColor=white)](https://www.nltk.org/)
-[![Gensim](https://img.shields.io/badge/Gensim-4CAF50?style=flat-square&logo=gensim&logoColor=white)](https://radimrehurek.com/gensim/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
 ### Marketing Analysis Project
@@ -227,6 +229,27 @@ A project focused on optimizing bakery production processes through data analysi
 [![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+### Fake News Detection
+> Detect fake news using machine learning algorithms
+
+<a href='https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning' target='_blank'>
+  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/Fake.jpg' alt='Fake News Detection' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Fake%20News%20Detection-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Fake-News-Detection-with-Machine-Learning)
+
+A comprehensive project to identify fake news using various machine learning techniques. This project focuses on text classification and data preprocessing to build reliable models for fake news detection.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-0277BD?style=flat-square&logo=nltk&logoColor=white)](https://www.nltk.org/)
+[![Gensim](https://img.shields.io/badge/Gensim-4CAF50?style=flat-square&logo=gensim&logoColor=white)](https://radimrehurek.com/gensim/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
@@ -361,31 +384,6 @@ Explore a variety of classic games that bring back the charm of old-school gamin
 [![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-
-
-### Electric and Solar Tariff Recommender
-> A project to recommend the best electric and solar tariffs for users based on their consumption patterns and preferences.
-
-<a href='https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project' target='_blank'>
-  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/luz.jpg' alt='Electric and Solar Tariff Recommender' />
-</a> 
-
-[![GitHub Repo](https://img.shields.io/badge/Electric%20and%20Solar%20Tariff%20Recommender-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://electric-and-solar-tariff-recommender-project-aklabfg6vkkxekht.streamlit.app/)
-
-This project helps users find the best electric and solar tariffs by analyzing their consumption data and preferences to provide personalized recommendations.<br>
-
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
 
 
 
