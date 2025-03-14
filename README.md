@@ -74,7 +74,7 @@ I’ve designed my workspace to boost productivity and comfort. Check out the fu
   <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/image_3.jpeg' alt='Alzheimer AI: Detection and Support' />
 </a> 
 
-![GitHub Repo](https://img.shields.io/badge/Alzheimer%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Alzheimer-Project)
+[![GitHub Repo](https://img.shields.io/badge/Alzheimer%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Alzheimer-Project)
 
 This project aims to develop a comprehensive solution for early Alzheimer’s detection and management, combining ML models, deep learning, an interactive app, a chatbot, and an Alexa skill.<br>
 
