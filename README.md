@@ -68,7 +68,7 @@ I’ve designed my workspace to boost productivity and comfort. Check out the fu
 ## 🌟 Featured Projects:
 
 ### Alzheimer AI: Detection and Support
-> The objective of this project is to develop a comprehensive solution for the early detection and management of Alzheimer's disease.
+> Develop a comprehensive solution for the early detection and management of Alzheimer's disease.
 
 <a href='https://github.com/Jotis86/Alzheimer-Project' target='_blank'>
   <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/image_3.jpeg' alt='Alzheimer AI: Detection and Support' />
