@@ -15,7 +15,7 @@
   <a href="https://www.globalcobots.com/blog/">
     <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=medium&logoColor=white" alt="Blog">
   </a>
-  <a href="https://github.com/Jotis86/My-Professional-CV/blob/main/CV_Juan%20Duran%20Bon.pdf" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=resume&logoColor=white" alt="CV"> </a>
+  <a href="https://github.com/Jotis86/My-Professional-CV/blob/main/CV.pdf" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=resume&logoColor=white" alt="CV"> </a>
 </p>
 
 <br> <!-- Añadido un salto de línea aquí -->
