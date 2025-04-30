@@ -208,6 +208,28 @@ The objective of this project is to provide an interactive and detailed analysis
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
+### Salary Analysis and Prediction
+> A predictive data analysis model estimates salaries in Data Science and AI using machine learning.
+
+<a href='https://github.com/Jotis86/Data-Salaries' target='_blank'>
+  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/salaries.png' alt='Data-Salaries' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Data%20Salaries%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Data-Salaries)
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://data-salaries-app.streamlit.app)
+
+This data analysis project develops a predictive model to estimate salaries in the field of Data Science and Artificial Intelligence. Using advanced machine learning techniques, the system analyzes factors such as experience, geographic location, technical specialization, and work modality to generate personalized salary estimates.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+
 ### Academic Performance Project
 > Develop and evaluate machine learning models to predict students' academic performance
 
