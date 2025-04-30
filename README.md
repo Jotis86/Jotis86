@@ -100,7 +100,7 @@ This project aims to develop a comprehensive solution for early Alzheimer’s de
   <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/frida.png' alt='FridAI' />
 </a> 
 
-[![GitHub Repo](https://img.shields.io/badge/Alzheimer%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/FridAI)
+[![GitHub Repo](https://img.shields.io/badge/FridAI-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/FridAI)
 [![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://fridai.streamlit.app)
 
 FridAI is an interactive web app that democratizes machine learning by allowing anyone to build, train, and deploy predictive models without writing a single line of code. From data exploration to model deployment, FridAI handles the entire machine learning workflow through an intuitive, visual interface that makes AI accessible to all.<br>
