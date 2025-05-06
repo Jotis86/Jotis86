@@ -325,31 +325,6 @@ A comprehensive project to identify fake news using various machine learning tec
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
-
-
-### Loan Analysis Project
-> The Loan Analysis Project aims to analyze a loan dataset to identify patterns and relationships and build a machine learning model to predict loan risk.
-
-<a href='https://github.com/Jotis86/Loan-Analysis-Project-' target='_blank'>
-  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/Loan.png' alt='Bakery Production Optimization' />
-</a> 
-
-[![GitHub Repo](https://img.shields.io/badge/Loan%20Analysis%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Loan-Analysis-Project-)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://5jbfewgry3tpmkytewg2wk.streamlit.app/)
-
-The goal of this project is to analyze a loan dataset to identify key patterns and relationships that can help predict whether a loan is at risk or not.<br>
-
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-
-
 ### Spaceship Titanic Rescue Mission
 > This project is part of a Kaggle challenge to help save the passengers and change history! I build a machine learning model to predict if passengers were transported.
 
