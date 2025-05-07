@@ -233,28 +233,6 @@ This data analysis project develops a predictive model to estimate salaries in t
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
-### Academic Performance Project
-> Develop and evaluate machine learning models to predict students' academic performance
-
-<a href='https://github.com/Jotis86/Academic_performance_case_study' target='_blank'>
-  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/principal.png' alt='Academic Performance Project' />
-</a> 
-
-[![GitHub Repo](https://img.shields.io/badge/Academic%20Performance%20Case%20Study-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Academic_performance_case_study)
-
-This project develops a Streamlit application that analyzes factors affecting students’ academic performance and predicts their outcomes using Machine Learning models.<br>
-
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
 
 
 ### Marketing Analysis Project
@@ -279,6 +257,47 @@ The objective of this project is to provide an interactive and detailed analysis
 [![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+### Games Project
+> A collection of various games developed to showcase different game development techniques and technologies.
+
+<a href='https://github.com/Jotis86/Games-Project' target='_blank'>
+  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/juego.jpg' alt='Games Project' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Games%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Games-Project)
+[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1OTJQsF92HWWaht8DlCZUxsI3aSYNPyB0/view?usp=sharing)
+
+Explore a variety of games developed using different game development techniques and technologies. Each game demonstrates unique features and gameplay mechanics.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+
+### Shark Analysis Project
+> Analyze various shark attack data to identify patterns and trends.
+
+<a href='https://github.com/Jotis86/Shark-Analysis-Project' target='_blank'>
+  <img align='left' width='160px' src='https://github.com/Jotis86/Images/blob/main/tiburon.jpg' alt='Shark Analysis Project' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Shark%20Analysis%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Shark-Analysis-Project)
+[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1aqCPykqkvnMoxWHZS_iso95nzDO7quO5/view?usp=sharing)
+
+This project involves analyzing data related to shark attacks to identify key patterns and trends. The analysis will help understand the behavior of sharks and provide insights into reducing shark attacks.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
 
 ### Bakery Production Optimization
 > Optimize bakery production using data analysis and machine learning
@@ -299,6 +318,28 @@ A project focused on optimizing bakery production processes through data analysi
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+### Academic Performance Project
+> Develop and evaluate machine learning models to predict students' academic performance
+
+<a href='https://github.com/Jotis86/Academic_performance_case_study' target='_blank'>
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/principal.png' alt='Academic Performance Project' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Academic%20Performance%20Case%20Study-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Academic_performance_case_study)
+
+This project develops a Streamlit application that analyzes factors affecting students’ academic performance and predicts their outcomes using Machine Learning models.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -333,7 +374,6 @@ A comprehensive project to identify fake news using various machine learning tec
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Spaceship%20Titanic%20Rescue%20Mission-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Spaceship-Titanic-Rescue-Mission)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://spaceship-titanic-rescue-mission-jldmxrnem3ltcymgjjeggk.streamlit.app/)
 
 
 Welcome to the year 2912! Your mission is to predict which passengers were transported using the records recovered from the ship's damaged computer system.<br>
@@ -368,47 +408,6 @@ Experience the excitement of navigating through a futuristic city filled with ch
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-
-### Shark Analysis Project
-> Analyze various shark attack data to identify patterns and trends.
-
-<a href='https://github.com/Jotis86/Shark-Analysis-Project' target='_blank'>
-  <img align='left' width='160px' src='https://github.com/Jotis86/Images/blob/main/tiburon.jpg' alt='Shark Analysis Project' />
-</a> 
-
-[![GitHub Repo](https://img.shields.io/badge/Shark%20Analysis%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Shark-Analysis-Project)
-[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1aqCPykqkvnMoxWHZS_iso95nzDO7quO5/view?usp=sharing)
-
-This project involves analyzing data related to shark attacks to identify key patterns and trends. The analysis will help understand the behavior of sharks and provide insights into reducing shark attacks.<br>
-
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4E9CAF?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
-
-
-### Games Project
-> A collection of various games developed to showcase different game development techniques and technologies.
-
-<a href='https://github.com/Jotis86/Games-Project' target='_blank'>
-  <img align='left' width='120px' src='https://github.com/Jotis86/Images/blob/main/juego.jpg' alt='Games Project' />
-</a> 
-
-[![GitHub Repo](https://img.shields.io/badge/Games%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Games-Project)
-[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1OTJQsF92HWWaht8DlCZUxsI3aSYNPyB0/view?usp=sharing)
-
-Explore a variety of games developed using different game development techniques and technologies. Each game demonstrates unique features and gameplay mechanics.<br>
-
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
 ### Classic Games Collection
