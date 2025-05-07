@@ -75,7 +75,7 @@ I’ve designed my workspace to boost productivity and comfort. Check out the fu
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Alzheimer%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Alzheimer-Project)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)]([https://memoria-activa.streamlit.app](https://drive.google.com/file/d/1hChbk2N_k-VoYYuiO0aixYORD4OF1Gmy/view?usp=share_link))
+[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1hChbk2N_k-VoYYuiO0aixYORD4OF1Gmy/view?usp=share_link)
 
 This project aims to develop a comprehensive solution for early Alzheimer’s detection and management, combining ML models, deep learning, an interactive app, a chatbot, and an Alexa skill.<br>
 
