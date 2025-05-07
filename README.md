@@ -75,7 +75,7 @@ I’ve designed my workspace to boost productivity and comfort. Check out the fu
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Alzheimer%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Alzheimer-Project)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://memoria-activa.streamlit.app)
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)]([https://memoria-activa.streamlit.app](https://drive.google.com/file/d/1hChbk2N_k-VoYYuiO0aixYORD4OF1Gmy/view?usp=share_link))
 
 This project aims to develop a comprehensive solution for early Alzheimer’s detection and management, combining ML models, deep learning, an interactive app, a chatbot, and an Alexa skill.<br>
 
@@ -101,7 +101,7 @@ This project aims to develop a comprehensive solution for early Alzheimer’s de
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/FridAI-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/FridAI)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://fridai.streamlit.app)
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)]([https://fridai.streamlit.app](https://drive.google.com/file/d/1hChbk2N_k-VoYYuiO0aixYORD4OF1Gmy/view?usp=share_link))
 
 FridAI is an interactive web app that democratizes machine learning by allowing anyone to build, train, and deploy predictive models without writing a single line of code. From data exploration to model deployment, FridAI handles the entire machine learning workflow through an intuitive, visual interface that makes AI accessible to all.<br>
 
@@ -124,7 +124,7 @@ FridAI is an interactive web app that democratizes machine learning by allowing 
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Cleanly-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Cleanly)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://limpito.streamlit.app)
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)]([https://limpito.streamlit.app](https://drive.google.com/file/d/1hChbk2N_k-VoYYuiO0aixYORD4OF1Gmy/view?usp=share_link))
 
 Cleanly is an interactive Streamlit-based tool that allows you to upload, clean, and analyze CSV files easily. It provides functionalities for data cleaning, outlier removal, data visualization, and exploratory data analysis (EDA.<br>
 
@@ -145,7 +145,7 @@ Cleanly is an interactive Streamlit-based tool that allows you to upload, clean,
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Electric%20and%20Solar%20Tariff%20Recommender-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Electric-and-Solar-Tariff-Recommender-Project)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://electric-and-solar-tariff-recommender-project-aklabfg6vkkxekht.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)]([https://electric-and-solar-tariff-recommender-project-aklabfg6vkkxekht.streamlit.app/](https://drive.google.com/file/d/1hChbk2N_k-VoYYuiO0aixYORD4OF1Gmy/view?usp=share_link))
 
 This project helps users find the best electric and solar tariffs by analyzing their consumption data and preferences to provide personalized recommendations.<br>
 
@@ -169,7 +169,7 @@ This project helps users find the best electric and solar tariffs by analyzing t
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Supply%20Chain%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Supply-Chain-Project)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://supply-chain-project-jy9fx2ga95cbnwbjcu3nyg.streamlit.app/)
+[![Streamlit App]([https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://supply-chain-project-jy9fx2ga95cbnwbjcu3nyg.streamlit.app/](https://drive.google.com/file/d/1hChbk2N_k-VoYYuiO0aixYORD4OF1Gmy/view?usp=share_link))
 
 The supply chain is a critical component of any business, and understanding its dynamics can lead to significant improvements in efficiency and effectiveness. This project leverages the power of data analytics to provide insights into various aspects of the supply chain, from supplier performance to product trends.<br>
 
@@ -194,7 +194,7 @@ The supply chain is a critical component of any business, and understanding its 
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/People%20Analytics%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/People-Analytics-Project)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://people-analytics-project-cxrukqhwgdwnagx8cabr97.streamlit.app/)
+[![Streamlit App]([https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://people-analytics-project-cxrukqhwgdwnagx8cabr97.streamlit.app/](https://drive.google.com/file/d/1hChbk2N_k-VoYYuiO0aixYORD4OF1Gmy/view?usp=share_link))
 
 The objective of this project is to provide an interactive and detailed analysis of key employee metrics to support strategic decision-making. This includes leveraging both Power BI for interactive dashboards and Python for data analysis, cleaning, and visualization.<br>
 
