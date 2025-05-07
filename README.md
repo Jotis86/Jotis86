@@ -218,7 +218,7 @@ The objective of this project is to provide an interactive and detailed analysis
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Data%20Salaries%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Data-Salaries)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://data-salaries-app.streamlit.app)
+[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1JU-3KXJ8xw7SHHxOsWyTMzunVbQynyN9/view?usp=sharing)
 
 This data analysis project develops a predictive model to estimate salaries in the field of Data Science and Artificial Intelligence. Using advanced machine learning techniques, the system analyzes factors such as experience, geographic location, technical specialization, and work modality to generate personalized salary estimates.<br>
 
@@ -265,7 +265,7 @@ This project develops a Streamlit application that analyzes factors affecting st
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Marketing%20Analysis%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Marketing-Analysis-Project)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://marketing-analysis-project-upjsxxocyxzgfipqedl4zv.streamlit.app/)
+[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1c8DCgLuPFbQJDTLXjzBBJG8sLa5_E3LY/view?usp=sharing)
 
 The objective of this project is to provide an interactive and detailed analysis of key marketing metrics to support strategic decision-making. This includes leveraging both Power BI for interactive dashboards and Python for data analysis, cleaning, and visualization.<br>
 
@@ -377,7 +377,7 @@ Experience the excitement of navigating through a futuristic city filled with ch
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Shark%20Analysis%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Shark-Analysis-Project)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://shark-analysis-project-mfuke6wqfkwwwx7n5shva8.streamlit.app/)
+[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1aqCPykqkvnMoxWHZS_iso95nzDO7quO5/view?usp=sharing)
 
 This project involves analyzing data related to shark attacks to identify key patterns and trends. The analysis will help understand the behavior of sharks and provide insights into reducing shark attacks.<br>
 
@@ -400,7 +400,7 @@ This project involves analyzing data related to shark attacks to identify key pa
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Games%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Games-Project)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://games-project-hgkadwvnzyvmvwoaatvgne.streamlit.app/)
+[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1OTJQsF92HWWaht8DlCZUxsI3aSYNPyB0/view?usp=sharing)
 
 Explore a variety of games developed using different game development techniques and technologies. Each game demonstrates unique features and gameplay mechanics.<br>
 
