@@ -307,7 +307,6 @@ This project involves analyzing data related to shark attacks to identify key pa
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Bakery%20Production%20Optimization-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Bakery-Production-Optimization-Project-)
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-gray?style=for-the-badge&logo=streamlit&logoColor=white)](https://npmrbdjxgvy8fhxqpa4con.streamlit.app/)
 
 A project focused on optimizing bakery production processes through data analysis and machine learning. This involves data manipulation, visualization, and model development for better decision-making.<br>
 
