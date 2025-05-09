@@ -169,7 +169,7 @@ This project helps users find the best electric and solar tariffs by analyzing t
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Supply%20Chain%20Project-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/Supply-Chain-Project)
-[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1dnZ6Znkuh4BGDEX6jgOtSzbTdd-Vr7fa/view?usp=sharing)
+[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/11wN0JbN76LgGpd95fgEzuHdDjSmXgjko/view?usp=sharing)
 
 The supply chain is a critical component of any business, and understanding its dynamics can lead to significant improvements in efficiency and effectiveness. This project leverages the power of data analytics to provide insights into various aspects of the supply chain, from supplier performance to product trends.<br>
 
