@@ -34,7 +34,8 @@ Hi, I am Juan! 😊 A data lover with a background in finance. Yes, I'm that guy
 ## 🎯 My Interests:
 
 - 💻 Coding: I love diving into code and creating efficient, elegant solutions to complex problems.
-- ⚽ Sports: I'm passionate about sports, especially football. Whether playing or watching, football is a big part of my life.
+- 📲 Content Creation: I enjoy sharing what I learn about data and AI through content on my Instagram @cerebroycodigo.
+- 🏃‍♂️ Sports: Practicing sports helps me stay active, reduce stress, and maintain both my physical and mental well-being.
 - 🍕 Italian Cuisine: I adore Italian food. From pasta to pizza, I enjoy exploring and cooking Italian dishes.
 - 📺 Series and Video Games: I enjoy binge-watching series and playing video games. It's a great way to relax and unwind.
 - 🎁 Collecting Funko Pop Figures: I have a growing collection of Funko Pop figures. Each one has a special place in my heart and on my shelf.
