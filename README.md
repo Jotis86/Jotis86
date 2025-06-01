@@ -446,6 +446,9 @@ Explore a variety of classic games that bring back the charm of old-school gamin
   <a href="http://discordapp.com/users/jotis4946" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square" height="23" alt="Discord" />
   </a>
+  <a href="https://www.instagram.com/cerebroycodigo" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square" height="23" alt="Instagram" />
+  </a>
 </div>
 
 
