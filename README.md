@@ -73,7 +73,7 @@ I’ve designed my workspace to boost productivity and comfort. Check out the fu
 > Educational repository with resources and projects on data, artificial intelligence, and applied technology.
 
 <a href='https://github.com/Jotis86/CerebroyCodigo' target='_blank'>
-  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/banner_principal' alt='Brain and Code' />
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/banner_principal.png' alt='Brain and Code' />
 </a> 
 
 [![Repositorio en GitHub](https://img.shields.io/badge/Cerebro%20y%20Código-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/CerebroyCodigo)
