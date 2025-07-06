@@ -69,6 +69,30 @@ I’ve designed my workspace to boost productivity and comfort. Check out the fu
 
 ## 🌟 Featured Projects:
 
+### Brain and Code
+> Educational repository with resources and projects on data, artificial intelligence, and applied technology.
+
+<a href='https://github.com/Jotis86/CerebroyCodigo' target='_blank'>
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/banner_principal' alt='Brain and Code' />
+</a> 
+
+[![Repositorio en GitHub](https://img.shields.io/badge/Cerebro%20y%20Código-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/CerebroyCodigo)
+[![Instagram](https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cerebroycodigo)
+
+Cerebro y Código is a learning hub to explore and share resources on data and AI. It offers practical and theoretical content on topics like machine learning, automation, and visualization.<br>
+
+[![Programming](https://img.shields.io/badge/Topic-Programming-4B8BBE?style=flat-square&logo=code&logoColor=white)](https://github.com/Jotis86/CerebroyCodigo)
+[![Data](https://img.shields.io/badge/Topic-Data-6A1B9A?style=flat-square&logo=database&logoColor=white)](https://github.com/Jotis86/CerebroyCodigo)
+[![Artificial Intelligence](https://img.shields.io/badge/Topic-Artificial%20Intelligence-FF6F00?style=flat-square&logo=brain&logoColor=white)](https://github.com/Jotis86/CerebroyCodigo)
+[![Educational](https://img.shields.io/badge/Focus-Educational-blue?style=flat-square&logo=academia&logoColor=white)](https://github.com/Jotis86/CerebroyCodigo)
+[![Open Source](https://img.shields.io/badge/License-MIT-green?style=flat-square&logo=open-source-initiative&logoColor=white)](https://opensource.org/licenses/MIT)
+[![Follow on Instagram](https://img.shields.io/badge/Follow-@cerebroycodigo-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cerebroycodigo)
+[![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)](https://github.com/Jotis86/CerebroyCodigo)
+[![Built with Love](https://img.shields.io/badge/Built%20with-%E2%9D%A4-red?style=flat-square)](https://github.com/Jotis86/CerebroyCodigo)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square&logo=github)](https://github.com/Jotis86/CerebroyCodigo/issues)
+
+
+
 ### Alzheimer AI: Detection and Support
 > Develop a comprehensive solution for the early detection and management of Alzheimer's disease.
 
