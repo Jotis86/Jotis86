@@ -25,42 +25,69 @@
 ![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=500&lines=Hi,+I+am+Juan+Duran!;I+am+Data+Analyst;I+am+Data+Scientist;Happy+Coding!)
 
 
-## 👋 About me:
+# 👋 Hi, I'm Juan!
 
-Hi, I am Juan! 😊 A data lover with a background in finance. Yes, I'm that guy who finds spreadsheets and bar charts exciting 📊. I turn data into strategic decisions and sometimes into really bad memes. Welcome to my portfolio, where numbers not only come to life but also try to be funny! 😄
+AI Software Developer passionate about building intelligent systems that combine **machine learning**, **backend engineering**, and **automation**.  
+I love turning ideas into fully functional AI-driven applications — and occasionally into terrible memes 🤖📊😄
+
+My work focuses on designing scalable architectures, integrating LLMs, and developing production-ready software that makes AI genuinely useful.
+
+
+## 🚀 What I Do
+
+As an **AI Software Developer**, I work on:
+
+- 🧠 **Generative AI & LLMs**  
+  Building applications powered by LLMs, embeddings, vector search, and intelligent agents.
+
+- ⚙️ **Backend Engineering**  
+  Developing APIs and services (Django, FastAPI) optimized for robustness, performance, and scalability.
+
+- 📦 **MLOps & Deployment**  
+  Dockerized environments, CI/CD pipelines, monitoring, and model serving.
+
+- 🧱 **AI Pipelines & Automation**  
+  Data ingestion, preprocessing, orchestration, and task automation with modern AI frameworks.
 
 
 
 ## 🎯 My Interests:
 
-- 💻 Coding: I love diving into code and creating efficient, elegant solutions to complex problems.
-- 📲 Content Creation: I enjoy sharing what I learn about data and AI through content on my Instagram [@cerebroycodigo](https://www.instagram.com/cerebroycodigo).
-- 🏃‍♂️ Sports: Practicing sports helps me stay active, reduce stress, and maintain both my physical and mental well-being.
-- 🍕 Italian Cuisine: I adore Italian food. From pasta to pizza, I enjoy exploring and cooking Italian dishes.
-- 📺 Series and Video Games: I enjoy binge-watching series and playing video games. It's a great way to relax and unwind.
-- 🎁 Collecting Funko Pop Figures: I have a growing collection of Funko Pop figures. Each one has a special place in my heart and on my shelf.
+- 💻 **AI Engineering**: LLMs, RAG systems, agents, automation, and intelligent apps.  
+- 📲 **Content Creation**: I share knowledge about AI & coding on Instagram: [@cerebroycodigo](https://www.instagram.com/cerebroycodigo).  
+- 🏃‍♂️ Sports to debug my mind.  
+- 🍕 Italian food enthusiast.  
+- 🎮 Series & video games to stay balanced.  
+- 🎁 Funko Pop collector — essential desk decoration.
 
 
 ## 💻 Tech Stack:
 
 
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Warp](https://img.shields.io/badge/Warp-000000?style=for-the-badge&logo=warp&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-ff66cc?style=for-the-badge&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0A1A2F?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-3B2F63?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Warp](https://img.shields.io/badge/Warp-000000?style=for-the-badge&logo=warp&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+
 
 ## 🖥️ My Setup
 
