@@ -27,10 +27,9 @@
 
 # 👋 Hi, I'm Juan!
 
-AI Software Developer passionate about building intelligent systems that combine **machine learning**, **backend engineering**, and **automation**.  
-I love turning ideas into fully functional AI-driven applications — and occasionally into terrible memes 🤖📊😄
+I’m an AI Software Developer who loves building intelligent systems that actually solve problems — not just look fancy in a diagram. I spend my time mixing machine learning, backend engineering, and automation to turn ideas into real, working products. And yes… sometimes into questionable memes 🤖📊😄
 
-My work focuses on designing scalable architectures, integrating LLMs, and developing production-ready software that makes AI genuinely useful.
+I focus on designing scalable architectures, integrating LLMs, and developing production-ready software that makes AI genuinely useful (and a little less mysterious).
 
 
 ## 🚀 What I Do
@@ -117,6 +116,32 @@ Cerebro y Código is a learning hub to explore and share resources on data and A
 [![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)](https://github.com/Jotis86/CerebroyCodigo)
 [![Built with Love](https://img.shields.io/badge/Built%20with-%E2%9D%A4-red?style=flat-square)](https://github.com/Jotis86/CerebroyCodigo)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square&logo=github)](https://github.com/Jotis86/CerebroyCodigo/issues)
+
+
+### Brain and Code ChatBot
+> RAG System for the educational repository Brain and Code.
+
+<a href='https://github.com/Jotis86/RAG_CerebroyCodigo' target='_blank'>
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/chatbot.png' alt='chatbot' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/RAG_CerebroyCodigo‑Repo-blue?style=for-the-badge&logo=github)](https://github.com/Jotis86/RAG_CerebroyCodigo)
+[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1hChbk2N_k-VoYYuiO0aixYORD4OF1Gmy/view?usp=share_link)
+
+This project implements a (RAG) system for an educational repo called Cerebro y Código, enabling enhanced information retrieval, contextual Q&A, and AI-assisted learning through embeddings, LLMs, and an interactive interface.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Cohere](https://img.shields.io/badge/Cohere-0086E3?style=flat-square&logo=cohere&logoColor=white)](https://cohere.ai/)
+[![LangChain](https://img.shields.io/badge/LangChain-1F2937?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-0D9488?style=flat-square&logoColor=white)](https://www.chromadb.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 
 
