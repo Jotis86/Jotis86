@@ -126,7 +126,7 @@ Cerebro y Código is a learning hub to explore and share resources on data and A
 </a> 
 
 [![RAG Cerebro y Código](https://img.shields.io/badge/RAG%20CerebroyCodigo-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/RAG_CerebroyCodigo)
-[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)]([https://drive.google.com/file/d/1hChbk2N_k-VoYYuiO0aixYORD4OF1Gmy/view?usp=share_link](https://drive.google.com/file/d/1bLEdyzwPY0-zjQsOrm3cv24OhO5OfS-s/view?usp=sharing))
+[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1bLEdyzwPY0-zjQsOrm3cv24OhO5OfS-s/view?usp=share_link)
 
 This project implements a (RAG) system for an educational repo called Cerebro y Código, enabling enhanced information retrieval, contextual Q&A, and AI-assisted learning through embeddings, LLMs, and an interactive interface.<br>
 
