@@ -12,7 +12,7 @@
   <a href="https://jotis86.github.io/Website/">
     <img src="https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Portafolio">
   </a>
-  <a href="https://www.globalcobots.com/blog/">
+  <a href="https://cerebroycodigo.beehiiv.com">
     <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=medium&logoColor=white" alt="Blog">
   </a>
   <a href="https://www.candycv.com/online/2QwlVXXVBS"> <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=resume&logoColor=white" alt="CV"> </a>
