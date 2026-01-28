@@ -145,6 +145,26 @@ This project implements a (RAG) system for an educational repo called Cerebro y 
 
 
 
+### AutoDocker
+> Streamlit-based Docker generator that simplifies containerization for developers.
+
+<a href='https://github.com/Jotis86/AutoDocker' target='_blank'>
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/docker.png' alt='AutoDocker' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/AutoDocker-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/AutoDocker)
+[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/TU_LINK_AQUI/view?usp=share_link)
+
+Streamlit-based Docker generator that simplifies containerization for developers. Input your project requirements and get production-ready Dockerfiles with multi-stage builds, optimized layers, and complete docker-compose configurations. Educational, intuitive, and built to teach Docker best practices while saving time.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+
 
 ### Alzheimer AI: Detection and Support
 > Develop a comprehensive solution for the early detection and management of Alzheimer's disease.
