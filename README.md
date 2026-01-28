@@ -27,7 +27,7 @@
 
 # 👋 Hi, I'm Juan!
 
-I'm an **AI Engineer** specializing in building production-ready AI systems. I turn LLMs and ML models into real products that solve actual problems—not just POCs that die in a notebook 🚀
+I'm an **AI Engineer** specializing in building production-ready AI systems. I turn LLMs and ML models into real products that solve actual problems — not just POCs that die in a notebook 🚀
 I focus on: RAG systems, AI agents, LLM integrations, MLOps pipelines, and scalable backend architectures that make AI genuinely useful in production.
 
 
