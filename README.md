@@ -149,7 +149,7 @@ This project implements a (RAG) system for an educational repo called Cerebro y 
 > Streamlit-based Docker generator that simplifies containerization for developers.
 
 <a href='https://github.com/Jotis86/AutoDocker' target='_blank'>
-  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/docker.png' alt='AutoDocker' />
+  <img align='left' width='140px' src='https://github.com/Jotis86/Images/blob/main/docker.png' alt='AutoDocker' />
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/AutoDocker-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/AutoDocker)
