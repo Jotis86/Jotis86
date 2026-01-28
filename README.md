@@ -22,47 +22,35 @@
 
 
 
-![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=500&lines=Hi,+I+am+Juan+Duran!;I+am+Data+Analyst;I+am+Data+Scientist;Happy+Coding!)
+![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=500&lines=Hi,+I'm+Juan+Duran!;AI+Engineer;Building+Production+AI+Systems;Let's+Ship+Some+AI!+🚀)
 
 
 # 👋 Hi, I'm Juan!
 
-I’m an AI Software Developer who loves building intelligent systems that actually solve problems — not just look fancy in a diagram. I spend my time mixing machine learning, backend engineering, and automation to turn ideas into real, working products. And yes… sometimes into questionable memes 🤖📊😄
-
-I focus on designing scalable architectures, integrating LLMs, and developing production-ready software that makes AI genuinely useful (and a little less mysterious).
+I'm an **AI Engineer** specializing in building production-ready AI systems. I turn LLMs and ML models into real products that solve actual problems—not just POCs that die in a notebook 🚀
+I focus on: RAG systems, AI agents, LLM integrations, MLOps pipelines, and scalable backend architectures that make AI genuinely useful in production.
 
 
 ## 🚀 What I Do
 
-As an **AI Software Developer**, I work on:
+As an **AI Engineer**, I specialize in:
 
-- 🧠 **Generative AI & LLMs**  
-  Building applications powered by LLMs, embeddings, vector search, and intelligent agents.
+- 🤖 **AI Systems Architecture**  
+  Designing and building production-grade AI applications: RAG systems, multi-agent workflows, LLM-powered APIs, and intelligent automation.
 
-- ⚙️ **Backend Engineering**  
-  Developing APIs and services (Django, FastAPI) optimized for robustness, performance, and scalability.
+- 🧠 **LLM Engineering**  
+  Fine-tuning, prompt engineering, embeddings, vector databases (Pinecone, ChromaDB), and retrieval systems that actually work at scale.
 
-- 📦 **MLOps & Deployment**  
-  Dockerized environments, CI/CD pipelines, monitoring, and model serving.
+- ⚙️ **Backend & API Development**  
+  Building robust APIs (FastAPI, Django) optimized for AI workloads, with proper error handling, rate limiting, and monitoring.
 
-- 🧱 **AI Pipelines & Automation**  
-  Data ingestion, preprocessing, orchestration, and task automation with modern AI frameworks.
-
-
-
-## 🎯 My Interests:
-
-- 💻 **AI Engineering**: LLMs, RAG systems, agents, automation, and intelligent apps.  
-- 📲 **Content Creation**: I share knowledge about AI & coding on Instagram: [@cerebroycodigo](https://www.instagram.com/cerebroycodigo).  
-- 🏃‍♂️ Sports to debug my mind.  
-- 🍕 Italian food enthusiast.  
-- 🎮 Series & video games to stay balanced.  
-- 🎁 Funko Pop collector — essential desk decoration.
+- 📦 **MLOps & Production**  
+  Dockerized deployments, CI/CD for ML models, monitoring, versioning, and everything needed to keep AI systems running reliably.
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
-
+### 🤖 AI & LLMs
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge)
@@ -70,18 +58,26 @@ As an **AI Software Developer**, I work on:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
+
+### ⚙️ Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
+
+### 🗄️ Databases & Vector Stores
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0A1A2F?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-3B2F63?style=for-the-badge)
+
+### 🚀 MLOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0A1A2F?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-3B2F63?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+### 🛠️ Tools & IDEs
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Warp](https://img.shields.io/badge/Warp-000000?style=for-the-badge&logo=warp&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
