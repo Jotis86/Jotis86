@@ -198,6 +198,7 @@ This project aims to develop a comprehensive solution for early Alzheimer’s de
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/ClusterFlow-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/ClusterFlow)
+[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1IrpswMkA8GO2ZkqDXmY1c2QZQ5el9XYk/view?usp=sharing)
 
 ClusterFlow is an intelligent web platform that automates the full clustering pipeline — from data loading to results export. It offers intelligent variable selection, multiple algorithms (K-Means, DBSCAN, Agglomerative), automatic optimization, PCA visualization, and professional export, all through an intuitive visual interface.<br>
 
