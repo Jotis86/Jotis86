@@ -190,6 +190,28 @@ This project aims to develop a comprehensive solution for early Alzheimer’s de
 [![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+### ClusterFlow
+> Intelligent web platform for clustering analysis that automates the entire ML pipeline for data segmentation.
+
+<a href='https://github.com/Jotis86/ClusterFlow' target='_blank'>
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/clusterflow.png' alt='ClusterFlow' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/ClusterFlow-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/ClusterFlow)
+
+ClusterFlow is an intelligent web platform that automates the full clustering pipeline — from data loading to results export. It offers intelligent variable selection, multiple algorithms (K-Means, DBSCAN, Agglomerative), automatic optimization, PCA visualization, and professional export, all through an intuitive visual interface.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Machine Learning](https://img.shields.io/badge/Topic-Machine%20Learning-FF6F00?style=flat-square&logo=brain&logoColor=white)](https://github.com/Jotis86/ClusterFlow)
+
+
 ### FridAI
 > Develop a no-code web app that lets anyone build, train, and deploy machine learning models through a simple and intuitive visual interface.
 
