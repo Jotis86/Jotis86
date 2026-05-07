@@ -142,6 +142,33 @@ This project implements a (RAG) system for an educational repo called Cerebro y 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
+### Yamly
+> Learn, generate and understand GitHub Actions workflows with ready-to-use templates and practical resources.
+
+<a href='https://github.com/Jotis86/Yamly' target='_blank'>
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/github.png' alt='yamly' />
+</a>
+
+[![Yamly](https://img.shields.io/badge/Yamly-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/yamly)
+[![🎥 Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-gray?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1aTlCGbMrZvxe9m-aJUpRe_zPLGfGbdRl/view?usp=sharing)
+
+Yamly is an educational project designed to simplify GitHub Actions and CI/CD workflows through interactive learning, reusable templates, and practical examples.<br>
+
+The platform helps developers understand how automation pipelines work, generate YAML workflows faster, and explore real-world GitHub Actions use cases in a more visual and beginner-friendly way.<br>
+
+It also includes downloadable templates and resources that can be adapted for different development environments and deployment scenarios.<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)](https://yaml.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+
+
 
 ### AutoDocker
 > Streamlit-based Docker generator that simplifies containerization for developers.
