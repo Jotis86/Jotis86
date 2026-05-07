@@ -154,10 +154,6 @@ This project implements a (RAG) system for an educational repo called Cerebro y 
 
 Yamly is an educational project designed to simplify GitHub Actions and CI/CD workflows through interactive learning, reusable templates, and practical examples.<br>
 
-The platform helps developers understand how automation pipelines work, generate YAML workflows faster, and explore real-world GitHub Actions use cases in a more visual and beginner-friendly way.<br>
-
-It also includes downloadable templates and resources that can be adapted for different development environments and deployment scenarios.<br>
-
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
