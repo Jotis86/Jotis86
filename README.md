@@ -1,51 +1,14 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://github.com/Jotis86/Jotis86/blob/main/AI_Engineer.png" width="900"/>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juan-duran-bon">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:jotaduranbon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://jotis86.github.io/Website/">
-    <img src="https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Portafolio">
-  </a>
-  <a href="https://cerebroycodigo.beehiiv.com">
-    <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=medium&logoColor=white" alt="Blog">
-  </a>
-  <a href="https://www.candycv.com/online/2QwlVXXVBS"> <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=resume&logoColor=white" alt="CV"> </a>
-</p>
-
-<br> <!-- Añadido un salto de línea aquí -->
-
-
-
 ![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=500&lines=Hi,+I'm+Juan+Duran!;AI+Engineer;Building+Production+AI+Systems;Let's+Ship+Some+AI!+🚀)
 
+# Hi, I'm Juan 👋
 
-# 👋 Hi, I'm Juan!
+I'm an AI Engineer based in Vigo, Spain. I spent a few years as a data analyst before moving into AI, and these days I build things with LLMs that are meant to run in production, not just in a notebook.
 
-I'm an **AI Engineer** specializing in building production-ready AI systems. I turn LLMs and ML models into real products that solve actual problems — not just POCs that die in a notebook.
-I focus on: RAG systems, AI agents, LLM integrations, MLOps pipelines, and scalable backend architectures that make AI genuinely useful in production.
-
-
-## 🚀 What I Do
-
-As an **AI Engineer**, I specialize in:
-
-- 🤖 **AI Systems Architecture**  
-  Designing and building production-grade AI applications: RAG systems, multi-agent workflows, LLM-powered APIs, and intelligent automation.
-
-- 🧠 **LLM Engineering**  
-  Fine-tuning, prompt engineering, embeddings, vector databases (Pinecone, ChromaDB), and retrieval systems that actually work at scale.
-
-- ⚙️ **Backend & API Development**  
-  Building robust APIs (FastAPI, Django) optimized for AI workloads, with proper error handling, rate limiting, and monitoring.
-
-- 📦 **MLOps & Production**  
-  Dockerized deployments, CI/CD for ML models, monitoring, versioning, and everything needed to keep AI systems running reliably.
+Most of my work is in Python: RAG systems, AI agents, and the APIs around them (FastAPI, Django), plus the less glamorous parts like Docker, CI/CD and monitoring that keep everything running.
 
 
 ## 💻 Tech Stack
