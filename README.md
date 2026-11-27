@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://github.com/Jotis86/Jotis86/blob/main/AI_Engineer.png" width="900"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jotis86/Jotis86/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jotis86/Jotis86/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Jotis86/Jotis86/output/github-snake.svg" />
+</picture>
 
 ![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=500&lines=Hi,+I'm+Juan+Duran!;AI+Engineer;Building+Production+AI+Systems;Let's+Ship+Some+AI!+🚀)
 
