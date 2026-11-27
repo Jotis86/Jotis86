@@ -1,5 +1,3 @@
-![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=500&lines=Hi,+I'm+Juan+Duran!;AI+Engineer;Building+Production+AI+Systems;Let's+Ship+Some+AI!+🚀)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jotis86/Jotis86/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jotis86/Jotis86/output/github-snake.svg" />
@@ -8,7 +6,7 @@
 
 <br>
 
-# Hi, I'm Juan 👋
+![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=500&lines=Hi,+I'm+Juan+Duran!;AI+Engineer;Building+Production+AI+Systems;Let's+Ship+Some+AI!+🚀)
 
 I'm an AI Engineer based in Vigo, Spain. I spent a few years as a data analyst before moving into AI, and these days I build things with LLMs that are meant to run in production, not just in a notebook.
 
