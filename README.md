@@ -88,7 +88,6 @@ Cerebro y Código is a learning hub to explore and share resources on data and A
 </a> 
 
 [![naturgy-cli](https://img.shields.io/badge/naturgy--cli-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/naturgy_cli)
-[![PyPI](https://img.shields.io/badge/PyPI-gray?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/naturgy-cli/)
 
 An unofficial CLI that talks directly to Naturgy's customer API, so checking bills, energy usage, meter readings, pending debt or the virtual battery takes one command instead of a dozen clicks. Everything comes out as clean JSON, so scripts and AI agents like Claude Code can use it too (it ships with its own skill).<br>
 
