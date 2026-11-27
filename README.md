@@ -4,6 +4,8 @@
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Jotis86/Jotis86/output/github-snake.svg" />
 </picture>
 
+<br>
+
 ![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=500&lines=Hi,+I'm+Juan+Duran!;AI+Engineer;Building+Production+AI+Systems;Let's+Ship+Some+AI!+🚀)
 
 # Hi, I'm Juan 👋
