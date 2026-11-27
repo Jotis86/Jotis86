@@ -80,6 +80,29 @@ Cerebro y Código is a learning hub to explore and share resources on data and A
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square&logo=github)](https://github.com/Jotis86/CerebroyCodigo/issues)
 
 
+### naturgy-cli
+> Command-line client for your own Naturgy España account.
+
+<a href='https://github.com/Jotis86/naturgy_cli' target='_blank'>
+  <img align='left' width='150px' src='https://github.com/Jotis86/Images/blob/main/naturgy.png' alt='naturgy-cli' />
+</a> 
+
+[![naturgy-cli](https://img.shields.io/badge/naturgy--cli-gray?style=for-the-badge&logo=github)](https://github.com/Jotis86/naturgy_cli)
+[![PyPI](https://img.shields.io/badge/PyPI-gray?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/naturgy-cli/)
+
+An unofficial CLI that talks directly to Naturgy's customer API, so checking bills, energy usage, meter readings, pending debt or the virtual battery takes one command instead of a dozen clicks. Everything comes out as clean JSON, so scripts and AI agents like Claude Code can use it too (it ships with its own skill).<br>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Typer](https://img.shields.io/badge/Typer-000000?style=flat-square)](https://typer.tiangolo.com/)
+[![HTTPX](https://img.shields.io/badge/HTTPX-1F2937?style=flat-square)](https://www.python-httpx.org/)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
+[![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square)](https://docs.astral.sh/uv/)
+[![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black)](https://brew.sh/)
+[![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://docs.pytest.org/)
+[![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)](https://docs.astral.sh/ruff/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+
 ### Brain and Code ChatBot
 > RAG System for the educational repository Brain and Code.
 
