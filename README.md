@@ -1,3 +1,7 @@
+![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=500&lines=Hi,+I'm+Juan+Duran!;AI+Engineer;Building+Production+AI+Systems;Let's+Ship+Some+AI!+🚀)
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jotis86/Jotis86/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jotis86/Jotis86/output/github-snake.svg" />
